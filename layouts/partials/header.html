@@ -1,0 +1,29 @@
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
+    <nav class="main-nav" aria-label="Sections">
+      {{ $page := . }}
+      {{ range .Site.Params.sections }}
+        {{ with $page.Site.GetPage (printf "/%s" .key) }}
+          <a href="{{ .RelPermalink }}"{{ if or ($page.IsDescendant .) (eq $page .) }} class="active"{{ end }}>{{ .Title }}</a>
+        {{ end }}
+      {{ end }}
+    </nav>
+    <nav class="lang-switch" aria-label="Language">
+      {{/* 語言切換：有對應譯文則跳譯文，否則回該語言首頁 */}}
+      {{ $page := . }}
+      {{ range hugo.Sites }}
+        {{ $lang := .Language.Lang }}
+        {{ $url := .Home.RelPermalink }}
+        {{ range $page.AllTranslations }}
+          {{ if eq .Language.Lang $lang }}{{ $url = .RelPermalink }}{{ end }}
+        {{ end }}
+        {{ if eq $lang $page.Language.Lang }}
+          <span class="lang-current" aria-current="page">{{ .Language.Label }}</span>
+        {{ else }}
+          <a class="lang-link" href="{{ $url }}">{{ .Language.Label }}</a>
+        {{ end }}
+      {{ end }}
+    </nav>
+  </div>
+</header>

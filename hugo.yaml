@@ -1,0 +1,46 @@
+baseURL: "https://china0432.com/"
+defaultContentLanguage: zh-hant
+defaultContentLanguageInSubdir: false
+title: 吉林家鄉文化
+paginate: 10
+enableGitInfo: false
+enableRobotsTXT: true   # 內建 robots.txt，可用 layouts/robots.txt 覆寫模板
+
+# 圖片/樣式管線走 Hugo Pipes（需 extended 版）
+# Sitemap：使用 Hugo 內建（每語言自動生成，含 hreflang 對應 URL）
+# RSS：每語言自動生成（/index.xml 與 /en/index.xml）
+
+languages:
+  zh-hant:
+    label: 繁體中文
+    languageCode: zh-Hant
+    contentDir: content/zh-hant
+    title: 吉林家鄉文化
+    weight: 1
+    params:
+      description: 吉林老照片、老地名、方言俚語、老字號味道與旅遊文化——雙語家鄉文化站
+      articleUnit: 篇文章
+  en:
+    label: English
+    languageCode: en
+    contentDir: content/en
+    title: Jilin Hometown Culture
+    weight: 2
+    params:
+      description: Old photos, place names, dialect, heritage flavors, travel and culture of Jilin, China — a bilingual hometown heritage site
+      articleUnit: articles
+
+# 六個欄目（中英同構，順序即導航順序）
+params:
+  sections:
+    - key: old-photos
+    - key: place-names
+    - key: dialect
+    - key: heritage-taste
+    - key: travel-culture
+    - key: practical-info
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: false

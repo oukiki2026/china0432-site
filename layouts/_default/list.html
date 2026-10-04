@@ -1,0 +1,26 @@
+{{ define "main" }}
+<header class="page-head">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+</header>
+{{ with .Content }}<div class="section-intro">{{ . }}</div>{{ end }}
+
+{{ if .RegularPagesRecursive }}
+<ul class="post-list">
+  {{ range (.Paginate .RegularPagesRecursive).Pages }}
+  <li>
+    <a class="post-link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <span class="post-meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      {{ with .Params.tags }} · {{ delimit . "、" }}{{ end }}
+      {{ if .Params.sample }} · <span class="sample-tag">SAMPLE</span>{{ end }}
+    </span>
+    {{ with .Description }}<p class="post-desc">{{ . }}</p>{{ end }}
+  </li>
+  {{ end }}
+</ul>
+{{ template "_internal/pagination.html" . }}
+{{ else }}
+<p class="empty">{{ if eq .Language.Lang "zh-hant" }}敬請期待，內容籌備中。{{ else }}Coming soon — content in preparation.{{ end }}</p>
+{{ end }}
+{{ end }}

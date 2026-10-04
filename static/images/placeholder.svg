@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#e7dfd2"/>
+  <g fill="#9c2b2e" opacity="0.55">
+    <circle cx="600" cy="290" r="90" fill="none" stroke="#9c2b2e" stroke-width="10"/>
+    <rect x="560" y="380" width="80" height="80"/>
+    <rect x="470" y="380" width="80" height="80" opacity="0.4"/>
+    <rect x="650" y="380" width="80" height="80" opacity="0.4"/>
+  </g>
+  <text x="600" y="520" text-anchor="middle" font-family="sans-serif" font-size="42" fill="#6f6a61">SAMPLE 佔位圖 / Placeholder</text>
+  <text x="600" y="565" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#6f6a61">正式發佈前替換為實拍並註明來源</text>
+</svg>

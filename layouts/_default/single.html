@@ -1,0 +1,20 @@
+{{ define "main" }}
+<article class="post">
+  {{ if .Params.sample }}
+  <p class="sample-badge">SAMPLE — 範例文章，正式發佈前替換為核驗後的原創稿 / Sample post, replace with verified original before publishing.</p>
+  {{ end }}
+  <h1>{{ .Title }}</h1>
+  <p class="meta">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+    {{ with .Params.tags }} · {{ delimit . "、" }}{{ end }}
+  </p>
+  {{ with .Params.image }}
+  <figure>
+    <img src="{{ . | relURL }}" alt="{{ $.Params.image_alt | default $.Title }}" loading="lazy">
+    {{ with $.Params.image_source }}<figcaption>{{ if eq $.Language.Lang "zh-hant" }}圖片來源：{{ else }}Image source: {{ end }}{{ . }}</figcaption>{{ end }}
+  </figure>
+  {{ end }}
+  <div class="content">{{ .Content }}</div>
+  <p class="back"><a href="{{ .Parent.RelPermalink }}">← {{ .Parent.Title }}</a></p>
+</article>
+{{ end }}
