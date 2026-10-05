@@ -4,9 +4,9 @@ date: 2026-10-05
 draft: false
 description: "吉林話詞條第二輯：忽悠、膈應、撒歡兒、吭哧、勁勁兒，附詞義、例句與場景。掌握這十個詞，你在吉林嘮嗑基本不怯場。"
 tags: ["方言", "吉林話"]
-image: "images/section-dialect.webp"
-image_alt: "吉林話詞條配圖"
-image_source: "AI 生成插畫（示意圖，非實拍）"
+image: "images/article-dialect-2.webp"
+image_alt: "胡同冬日插畫"
+image_source: "AI 生成插畫（示意圖）"
 sample: false
 ---
 

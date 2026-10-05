@@ -6,7 +6,7 @@ description: "「吉林」二字從何而來？它源自滿語「吉林烏拉」
 tags: ["老地名", "吉林烏拉", "建城史"]
 image: "images/section-place-names.webp"
 image_alt: "吉林市傳統鼓樓建築實拍"
-image_source: "實拍 © George Wenn／Wikimedia Commons（CC BY-SA 3.0）"
+image_source: "圖片來源：George Wenn／Wikimedia Commons（CC BY-SA 3.0）"
 sample: false
 ---
 

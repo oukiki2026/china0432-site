@@ -1,7 +1,7 @@
 {{ define "main" }}
 <section class="hero">
   <img class="hero-img" src="{{ "images/hero-home.webp" | relURL }}" alt="{{ .Title }}" loading="eager" fetchpriority="high">
-  <p class="hero-credit">{{ if eq .Language.Lang "zh-hant" }}首圖：吉林霧凇實拍 © 阳之下光／Wikimedia Commons（CC BY 3.0）{{ else }}Hero image: rime ice in Jilin, photo © 阳之下光 / Wikimedia Commons (CC BY 3.0){{ end }}</p>
+  <p class="hero-credit">{{ if eq .Language.Lang "zh-hant" }}首圖：吉林霧凇，圖片來源：阳之下光／Wikimedia Commons（CC BY 3.0）{{ else }}Hero image: rime ice in Jilin; source: 阳之下光 / Wikimedia Commons (CC BY 3.0){{ end }}</p>
   <h1>{{ .Title }}</h1>
   <p class="lead">{{ .Params.lead | default .Site.Params.description }}</p>
   {{ with .Content }}<div class="home-content">{{ . }}</div>{{ end }}

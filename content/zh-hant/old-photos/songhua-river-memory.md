@@ -6,7 +6,7 @@ description: "寫給松花江的文字：江、冬泳、開江與霧凇。文末
 tags: ["老照片", "松花江", "徵集"]
 image: "images/section-old-photos.webp"
 image_alt: "松花江實拍"
-image_source: "實拍 © H2v5o68z／Wikimedia Commons（CC0 公有領域）"
+image_source: "圖片來源：H2v5o68z／Wikimedia Commons（CC0 公有領域）"
 sample: false
 ---
 

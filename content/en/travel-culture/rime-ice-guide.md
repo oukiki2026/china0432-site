@@ -6,7 +6,7 @@ description: "Every winter, mist from the Songhua River freezes onto riverside t
 tags: ["rime ice", "Songhua River", "winter travel"]
 image: "images/section-travel-culture.webp"
 image_alt: "Rime ice in Jilin (real photo)"
-image_source: "Photo © Jacky Lee / Wikimedia Commons (CC BY 3.0)"
+image_source: "Image: Jacky Lee / Wikimedia Commons (CC BY 3.0)"
 sample: true
 ---
 

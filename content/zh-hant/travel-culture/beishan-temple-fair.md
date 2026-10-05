@@ -6,7 +6,7 @@ description: "逛廟會、看花燈、吃小吃——北山公園的正月廟會
 tags: ["北山", "廟會", "春節"]
 image: "images/photo-beishan-gate.webp"
 image_alt: "北山公園山門實拍"
-image_source: "實拍 © BoyuZhang1998／Wikimedia Commons（CC BY-SA 4.0）"
+image_source: "圖片來源：BoyuZhang1998／Wikimedia Commons（CC BY-SA 4.0）"
 sample: true
 ---
 

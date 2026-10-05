@@ -6,7 +6,7 @@ description: "每年 12 月至次年 2 月，松花江畔霧氣凝霜，玉樹�
 tags: ["霧凇", "松花江", "冬季旅遊"]
 image: "images/section-travel-culture.webp"
 image_alt: "吉林霧凇實拍"
-image_source: "實拍 © Jacky Lee／Wikimedia Commons（CC BY 3.0）"
+image_source: "圖片來源：Jacky Lee／Wikimedia Commons（CC BY 3.0）"
 sample: true
 ---
 
