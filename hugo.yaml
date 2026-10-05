@@ -10,6 +10,10 @@ enableRobotsTXT: true   # 內建 robots.txt，可用 layouts/robots.txt 覆寫�
 # Sitemap：使用 Hugo 內建（每語言自動生成，含 hreflang 對應 URL）
 # RSS：每語言自動生成（/index.xml 與 /zh-hant/index.xml）
 
+params:
+  # GA4 衡量 ID：填入 G-XXXXXXXXXX 后重新构建部署即生效（留空则不输出追踪代码）
+  ga4MeasurementID: ""
+
 languages:
   en:
     label: English

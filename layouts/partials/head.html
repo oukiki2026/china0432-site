@@ -18,6 +18,7 @@
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
-{{/* 極簡 CSS，經 Hugo Pipes 壓縮；全站零 JavaScript */}}
+{{/* 極簡 CSS，經 Hugo Pipes 壓縮；全站零 JavaScript（GA4 除外） */}}
 {{ $css := resources.Get "css/style.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+{{ partial "ga4.html" . }}
