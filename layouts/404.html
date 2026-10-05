@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article class="post not-found">
+  <h1>404</h1>
+  {{ if eq .Language.Lang "zh-hant" }}
+  <p>找不到這個頁面。它可能已被移動或刪除。</p>
+  <p><a href="{{ "/" | relLangURL }}">← 回首頁</a></p>
+  {{ else }}
+  <p>We couldn't find that page. It may have been moved or deleted.</p>
+  <p><a href="{{ "/" | relLangURL }}">← Back to homepage</a></p>
+  {{ end }}
+</article>
+{{ end }}
