@@ -53,9 +53,9 @@ The full step-by-step transport guide — Beijing/Shenyang/Changchun departures,
 
 **2. Beishan Park （北山公园）.** The city's beloved hill park — temples, pavilions and pagodas stacked up a forested slope, with panoramic views over the river city. Equally good for a winter rime walk or a summer afternoon.
 
-**3. [Jilin Confucian Temple](/heritage/jilin-confucian-temple/) （吉林文庙）.** One of the largest Confucian temples in Northeast China, a Qing-dynasty complex of red walls and sweeping roofs — built by Manchu emperors to honor the sage whose civilization they ruled. Quiet, photogenic, and the best single stop for the city's cultural depth.
+**3. [Jilin Confucian Temple](/heritage/jilin-confucian-temple/) （吉林文庙）.** One of the largest Confucian temples in Northeast China, a Qing-dynasty complex of red walls and sweeping roofs — built by Manchu emperors to honor the sage whose civilization they ruled. Quiet, photogenic, and the best single stop for the city's cultural depth. Pair it with the [Manchu Museum](/heritage/manchu-roots-jilin/) for the full story of the garrison town behind the name *Jilin*.
 
-**4. Jilin Meteorite Museum.** The 1976 Jilin meteorite fall scattered stones across the region; the largest recovered piece — among the biggest stony meteorites in the world — is displayed here.
+**4. [Jilin Meteorite Museum](/heritage/jilin-meteorite-museum/).** The 1976 Jilin meteorite fall scattered stones across the region; the largest recovered piece — among the biggest stony meteorites in the world — is displayed here.
 
 **5. Songhua Lake （松花湖）.** A vast reservoir south of the city: summer boating and lakeside walks, winter ice activities, and ski slopes on its shores.
 
