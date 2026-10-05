@@ -1,5 +1,5 @@
-{{/* GA4：site.Params.ga4MeasurementID 填入 G-XXXXXXXXXX 後生效；尊重瀏覽器 Do Not Track */}}
-{{ with site.Params.ga4MeasurementID }}
+{{/* GA4：site.Params.ga4measurementid 填入 G-XXXXXXXXXX 後生效；尊重瀏覽器 Do Not Track */}}
+{{ with site.Params.ga4measurementid }}
 {{ if not hugo.IsServer }}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
 <script>
