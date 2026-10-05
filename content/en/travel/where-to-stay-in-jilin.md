@@ -30,7 +30,7 @@ Jilin is a compact city. Unlike Beijing or Shanghai, you won't go wrong by picki
 
 **Along the Songhua River — Songjiang Middle Road （松江中路）.** The riverside is Jilin's prettiest face: morning walks, the evening lights, and — in winter — the rime-ice viewing banks are right outside. Hotels here trade a little transport convenience for a much nicer view. If your trip centers on winter scenery, stay by the river. See [the rime ice guide](/travel/rime-ice-guide/) for where to stand at dawn.
 
-What to pick *within* those areas matters more than which area: look for international brands or upper-mid-range domestic chains, recent reviews written in English, a 24-hour front desk, and — the one filter that actually matters for you — confirmation that the property registers foreign guests.
+What to pick *within* those areas matters more than which area: look for international brands or upper-mid-range domestic chains (Hanting 汉庭 and Home Inn 如家 are China's answer to Holiday Inn Express — the safest first-night bet in any Chinese city), recent reviews written in English, a 24-hour front desk, and — the one filter that actually matters for you — confirmation that the property registers foreign guests.
 
 ## Booking as a foreigner: the one thing to get right
 

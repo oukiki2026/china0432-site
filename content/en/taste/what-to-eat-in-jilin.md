@@ -12,18 +12,18 @@ sample: false
 
 ## Eating in Jilin in 30 seconds
 
-- **The cuisine:** Dongbei (Northeastern) food — hearty, salty-sour, served in generous portions built for −20°C winters.
+- **The cuisine:** Dongbei (Northeastern) food — hearty, salty-sour, served in generous portions built for −20°C winters. If you know Bavarian winter food — sausages, pickled cabbage, dumplings, beer — you already understand the Dongbei table. Same climate logic, different continent.
 - **Must-tries:** guobaorou （锅包肉）, suan cai stewed pork, Korean-style cold noodles, Manchu hotpot, and the street snack jianfen （煎粉）.
 - **Where:** neighborhood diners for the real thing; snack streets for grazing; hotel restaurants if you want English menus.
 - **Ordering:** menus are Chinese-only outside hotels. A translation app with camera mode is essential — plus pointing, smiling, and the phrase *zhege* （这个, "this one").
 
 ## The dishes you came for
 
-**Guobaorou （锅包肉） — sweet-and-sour crispy pork.** Jilin's signature dish and a point of local pride: thin slices of pork, fried crisp, glazed in a translucent sweet-sour sauce with shredded carrot and scallion. The authentic version is *not* the gloopy red stuff — it should shatter, then melt. Order it everywhere; compare versions like a local.
+**Guobaorou （锅包肉） — sweet-and-sour crispy pork.** Jilin's signature dish and a point of local pride: thin slices of pork, fried crisp, glazed in a translucent sweet-sour sauce with shredded carrot and scallion. Think of it as sweet-and-sour pork the way it was always meant to be — shattering crisp, never the gloopy red stuff. Order it everywhere; compare versions like a local.
 
-**Suan cai stewed pork （酸菜炖肉）.** Pickled cabbage slow-stewed with pork belly, sometimes with blood sausage （血肠）. Sour, fatty, warming — the dish Northeasterners miss most when they leave home. Peak season is winter, when every family has its crock of fermenting cabbage.
+**Suan cai stewed pork （酸菜炖肉）.** Pickled cabbage slow-stewed with pork belly, sometimes with blood sausage （血肠）. Think sauerkraut's Chinese cousin — both were born from the same survival logic: fermenting cabbage to get through winter. Sour, fatty, warming — the dish Northeasterners miss most when they leave home. Peak season is winter, when every family has its crock of fermenting cabbage.
 
-**Bairou xuechang （白肉血肠） — "killing the pig" feast.** White boiled pork with garlic dipping sauce plus blood sausage, traditionally the centerpiece of the winter pig-slaughter feast. Rich, unapologetic, unforgettable.
+**Bairou xuechang （白肉血肠） — "killing the pig" feast.** White boiled pork with garlic dipping sauce plus blood sausage — think Germany's Blutwurst meeting Northeast China — traditionally the centerpiece of the winter pig-slaughter feast. Rich, unapologetic, unforgettable.
 
 **Cold noodles （冷面）. ** Jilin's Korean community keeps this ice-cold buckwheat noodle soup authentic: chewy noodles, chilled beefy broth, kimchi, half a boiled egg. The perfect antidote after days of heavy winter food — and excellent in summer.
 

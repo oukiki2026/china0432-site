@@ -22,7 +22,7 @@ sample: false
 | Month | Typical range | Notes |
 |---|---|---|
 | December | −18 to −8°C | Winter sets in; rime season begins |
-| January | −25 to −15°C | Coldest month; best rime odds |
+| January | −25 to −15°C | Coldest month; best rime odds — colder than Moscow in January |
 | February | −22 to −12°C | Still deep winter, slightly longer days |
 
 These are air temperatures. The wind along the river can make it feel 5–10 degrees colder, and pre-dawn rime viewings (6–9 AM) are the coldest hours of the day. The good news: it's a **dry cold** — with the right layers, −20°C in Jilin feels more manageable than −5°C in damp Shanghai.

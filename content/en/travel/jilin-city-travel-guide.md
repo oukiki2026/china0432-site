@@ -49,7 +49,7 @@ A full step-by-step transport guide — Beijing/Shenyang/Changchun departures, t
 
 ## Top things to do
 
-**1. See the rime ice.** The city's signature. In the city itself, walk the Songjiang Middle Road riverbank at sunrise; for the full spectacle, day-trip to **Rime Island (Wusong Island)** in Wulajie Manchu Town, about 40 km / 1 hour north. Go between 6 and 9 AM, dress for −20°C, and keep camera batteries warm inside your coat.
+**1. See the rime ice.** The city's signature. In the city itself, walk the Songjiang Middle Road riverbank at sunrise; for the full Narnia-like spectacle, day-trip to **Rime Island (Wusong Island)** in Wulajie Manchu Town, about 40 km / 1 hour north. Go between 6 and 9 AM, dress for −20°C, and keep camera batteries warm inside your coat.
 
 **2. Beishan Park （北山公园）.** The city's beloved hill park — temples, pavilions and pagodas stacked up a forested slope, with panoramic views over the river city. Equally good for a winter rime walk or a summer afternoon.
 
@@ -93,7 +93,7 @@ Menus are Chinese-only outside hotels. A translation app with camera mode is not
 - **Payments:** Alipay and WeChat Pay both offer international versions you can set up with a foreign card before arrival. Carry some cash as backup — small vendors and taxis may be cash-only.
 - **Language:** English is rarely spoken. Download a translation app and an offline map (Amap works well; Google Maps is unreliable in China).
 - **Connectivity:** Google services are blocked in mainland China. Arrange a VPN *before* you arrive, or plan to travel without them. Buy a local SIM or eSIM at the airport for data and mobile payments.
-- **Cold:** Winter temperatures regularly drop below −20°C. Layered down, thermal boots with grip, gloves, hat, and a windproof face mask. Exposed skin hurts within minutes.
+- **Cold:** Winter temperatures regularly drop below −20°C — colder than Moscow in January; think Winnipeg or northern Minnesota. Layered down, thermal boots with grip, gloves, hat, and a windproof face mask. Exposed skin hurts within minutes.
 - **Visa:** China offers **240-hour visa-free transit** for citizens of 54 countries — worth checking if your itinerary qualifies. A dedicated visa guide is coming in this series.
 
 ## Suggested itineraries
