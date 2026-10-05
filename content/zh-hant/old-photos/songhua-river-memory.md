@@ -4,9 +4,9 @@ date: 2026-10-05
 draft: false
 description: "寫給松花江的文字：江、冬泳、開江與霧凇。文末附老照片徵集啟事——你家相冊裡的松花江，歡迎投稿。"
 tags: ["老照片", "松花江", "徵集"]
-image: "images/placeholder.svg"
+image: "images/section-old-photos.webp"
 image_alt: "松花江舊影示意圖"
-image_source: "待替換"
+image_source: "AI 生成插畫（示意圖，非實拍）"
 sample: false
 ---
 

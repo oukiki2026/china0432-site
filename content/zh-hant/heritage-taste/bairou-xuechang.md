@@ -4,9 +4,9 @@ date: 2026-10-05
 draft: false
 description: "年關殺年豬，一大鍋殺豬菜端上桌：白肉、血腸、酸菜、粉條，蘸著蒜醬吃。對吉林人來說，這不是一道菜，是一整個冬天的人情味。"
 tags: ["老字號與味道", "殺豬菜", "年味"]
-image: "images/placeholder.svg"
+image: "images/section-heritage-taste.webp"
 image_alt: "殺豬菜示意圖"
-image_source: "待替換"
+image_source: "AI 生成插畫（示意圖，非實拍）"
 sample: false
 ---
 

@@ -4,9 +4,9 @@ date: 2026-10-04T10:00:00+08:00
 draft: false
 description: "逛廟會、看花燈、吃小吃——北山公園的正月廟會，是一代吉林人的集體記憶。"
 tags: ["北山", "廟會", "春節"]
-image: "images/placeholder.svg"
+image: "images/section-travel-culture.webp"
 image_alt: "佔位圖：北山廟會示意"
-image_source: "SAMPLE 佔位圖——正式發佈前替換為實拍或老照片並註明來源"
+image_source: "AI 生成插畫（示意圖，非實拍）"
 sample: true
 ---
 

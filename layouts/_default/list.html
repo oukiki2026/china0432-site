@@ -8,14 +8,20 @@
 {{ if .RegularPagesRecursive }}
 <ul class="post-list">
   {{ range (.Paginate .RegularPagesRecursive).Pages }}
-  <li>
-    <a class="post-link" href="{{ .RelPermalink }}">{{ .Title }}</a>
-    <span class="post-meta">
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
-      {{ with .Params.tags }} · {{ delimit . "、" }}{{ end }}
-      {{ if .Params.sample }} · <span class="sample-tag">SAMPLE</span>{{ end }}
-    </span>
-    {{ with .Description }}<p class="post-desc">{{ . }}</p>{{ end }}
+  {{ $p := . }}
+  <li class="post-item">
+    {{ with $p.Params.image }}
+    <a class="post-thumb" href="{{ $p.RelPermalink }}" aria-hidden="true" tabindex="-1"><img src="{{ . | relURL }}" alt="" loading="lazy"></a>
+    {{ end }}
+    <div class="post-text">
+      <a class="post-link" href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
+      <span class="post-meta">
+        <time datetime="{{ $p.Date.Format "2006-01-02" }}">{{ $p.Date.Format "2006-01-02" }}</time>
+        {{ with $p.Params.tags }} · {{ delimit . "、" }}{{ end }}
+        {{ if $p.Params.sample }} · <span class="sample-tag">SAMPLE</span>{{ end }}
+      </span>
+      {{ with $p.Description }}<p class="post-desc">{{ . }}</p>{{ end }}
+    </div>
   </li>
   {{ end }}
 </ul>

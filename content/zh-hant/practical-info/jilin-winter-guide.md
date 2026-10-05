@@ -4,9 +4,9 @@ date: 2026-10-05
 draft: false
 description: "第一次來吉林過冬？零下二十度的正確打開方式：洋蔥式穿衣、雪地靴、暖寶寶，以及讓手機活過戶外的幾個技巧。"
 tags: ["實用信息", "冬季", "旅遊攻略"]
-image: "images/placeholder.svg"
+image: "images/section-practical-info.webp"
 image_alt: "吉林冬季街景示意圖"
-image_source: "待替換"
+image_source: "AI 生成插畫（示意圖，非實拍）"
 sample: false
 ---
 

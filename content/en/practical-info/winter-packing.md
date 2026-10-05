@@ -4,9 +4,9 @@ date: 2026-10-04T11:00:00+08:00
 draft: false
 description: "Temperatures can drop below −25°C. A practical packing list for visiting Jilin between December and February."
 tags: ["winter", "packing list", "practical"]
-image: "images/placeholder.svg"
+image: "images/section-practical-info.webp"
 image_alt: "Placeholder: winter clothing illustration"
-image_source: "SAMPLE placeholder — replace with a real photo and credit before publishing"
+image_source: "AI-generated illustration (not a real photo)"
 sample: true
 ---
 

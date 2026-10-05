@@ -4,9 +4,9 @@ date: 2026-10-05
 draft: false
 description: "「你嘎哈呢？」「可別埋汰人了！」吉林話裡這些詞，外地人聽得一頭霧水，吉林人卻用得行雲流水。第一輯五個高頻詞，附詞義、例句與使用場景。"
 tags: ["方言", "吉林話"]
-image: "images/placeholder.svg"
+image: "images/section-dialect.webp"
 image_alt: "吉林話詞條配圖"
-image_source: "待替換"
+image_source: "AI 生成插畫（示意圖，非實拍）"
 sample: false
 ---
 

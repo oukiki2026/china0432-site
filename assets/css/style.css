@@ -36,21 +36,27 @@ img { max-width: 100%; height: auto; display: block; }
 
 /* Home */
 .hero { padding: 2.5rem 0 1.5rem; }
+.hero-img { border-radius: 12px; margin: 0 0 1.2rem; }
 .hero h1 { font-size: 2rem; margin: 0 0 .5rem; letter-spacing: .05em; }
 .lead { color: var(--muted); font-size: 1.05rem; margin: 0; }
 .sections-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; padding: 1rem 0 3rem; }
 .card { display: block; background: var(--card); border: 1px solid var(--line);
-  border-radius: 10px; padding: 1.1rem 1.2rem; color: var(--fg); }
+  border-radius: 10px; color: var(--fg); overflow: hidden; padding: 0; }
 .card:hover { text-decoration: none; border-color: var(--accent); }
-.card h2 { margin: 0 0 .3rem; font-size: 1.15rem; }
-.card p { margin: 0 0 .6rem; color: var(--muted); font-size: .92rem; }
-.card .count { font-size: .8rem; color: var(--muted); }
+.card-img { width: 100%; height: 160px; object-fit: cover; }
+.card-body { padding: 1rem 1.2rem 1.1rem; }
+.card-body h2 { margin: 0 0 .3rem; font-size: 1.15rem; }
+.card-body p { margin: 0 0 .6rem; color: var(--muted); font-size: .92rem; }
+.card-body .count { font-size: .8rem; color: var(--muted); }
 
 /* List */
 .page-head { padding: 2rem 0 .5rem; }
 .page-head h1 { margin: 0 0 .3rem; }
 .post-list { list-style: none; margin: 1rem 0 3rem; padding: 0; }
-.post-list li { padding: .9rem 0; border-bottom: 1px solid var(--line); }
+.post-item { display: flex; gap: 1rem; align-items: flex-start; padding: .9rem 0; border-bottom: 1px solid var(--line); }
+.post-thumb { flex: 0 0 140px; }
+.post-thumb img { width: 140px; height: 100px; object-fit: cover; border-radius: 8px; }
+.post-text { flex: 1; min-width: 0; }
 .post-link { font-size: 1.1rem; font-weight: 600; color: var(--fg); }
 .post-link:hover { color: var(--accent); }
 .post-meta { display: block; color: var(--muted); font-size: .85rem; margin-top: .2rem; }
@@ -84,4 +90,6 @@ img { max-width: 100%; height: auto; display: block; }
   .hero h1 { font-size: 1.6rem; }
   .sections-grid { grid-template-columns: 1fr; }
   .header-inner { gap: .6rem; }
+  .post-thumb { flex-basis: 100px; }
+  .post-thumb img { width: 100px; height: 75px; }
 }

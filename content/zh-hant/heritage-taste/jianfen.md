@@ -4,9 +4,9 @@ date: 2026-10-05
 draft: false
 description: "一塊涼粉、幾勺調料，鐵板上「滋啦」一聲——煎粉是吉林人從小吃到大的街頭味道：便宜、管飽、越嚼越香，蒜汁是靈魂。"
 tags: ["老字號與味道", "街頭小吃"]
-image: "images/placeholder.svg"
+image: "images/section-heritage-taste.webp"
 image_alt: "煎粉示意圖"
-image_source: "待替換"
+image_source: "AI 生成插畫（示意圖，非實拍）"
 sample: false
 ---
 
