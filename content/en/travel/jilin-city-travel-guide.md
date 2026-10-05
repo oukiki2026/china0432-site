@@ -53,7 +53,7 @@ A full step-by-step transport guide — Beijing/Shenyang/Changchun departures, t
 
 **2. Beishan Park （北山公园）.** The city's beloved hill park — temples, pavilions and pagodas stacked up a forested slope, with panoramic views over the river city. Equally good for a winter rime walk or a summer afternoon.
 
-**3. Jilin Confucian Temple （吉林文庙）.** One of the largest Confucian temples in Northeast China, a Qing-dynasty complex of red walls and sweeping roofs. Quiet, photogenic, and the best single stop for the city's cultural depth.
+**3. [Jilin Confucian Temple](/travel/jilin-confucius-temple/) （吉林文庙）.** One of the largest Confucian temples in Northeast China, a Qing-dynasty complex of red walls and sweeping roofs — built by Manchu emperors to honor the sage whose civilization they ruled. Quiet, photogenic, and the best single stop for the city's cultural depth.
 
 **4. Jilin Meteorite Museum.** The 1976 Jilin meteorite fall scattered stones across the region; the largest recovered piece — among the biggest stony meteorites in the world — is displayed here.
 
