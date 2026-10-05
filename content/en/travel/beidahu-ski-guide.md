@@ -67,6 +67,15 @@ Trail counts and grooming change season to season — treat any specific trail m
 
 This is the winter itinerary nobody else is selling you: **ski Beidahu by day, chase rime ice at dawn.** The resort is an hour from Jilin City; [Rime Island](/travel/rime-ice-guide/) is an hour north. Base yourself in the city for 3–4 days in December–February: dawn at the island, days on the mountain, nights eating your way through the [food guide](/taste/what-to-eat-in-jilin/). That's a winter trip with no equivalent anywhere else in China.
 
+## Homegrown heroes: Jilin City's Olympic champions
+
+Jilin doesn't just host winter sports — it produces winter Olympians. Two of China's most famous were born right here in Jilin City:
+
+- **苏翊鸣 (Su Yiming)** — born in Jilin City in 2004, on skis (well, a snowboard) from age 4. Beijing 2022: **gold in snowboard Big Air** — China's first Olympic snowboarding champion — plus slopestyle silver. Milan-Cortina 2026: **slopestyle gold** (on his 22nd birthday) and Big Air bronze. Before any of that, he was a child actor, playing young Jiang Shuanzi in Tsui Hark's *The Taking of Tiger Mountain* — a film set, fittingly, in snowy Manchurian mountains.
+- **李坚柔 (Li Jianrou)** — born in Jilin City in 1986. Sochi 2014: one of the most dramatic golds in short-track history. In the women's 500m final, the three skaters ahead of her all crashed out; she skated through the chaos for **China's first gold of those Games**.
+
+This is the winter-sports culture you're visiting: the same mountains, the same −25°C mornings that made them. When you ride Beidahu's gondola up through the rime forest, you're on hometown snow.
+
 ## Practical tips
 
 - **Book holidays early.** Chinese New Year week sells out resort hotels — weeks ahead, not days.
