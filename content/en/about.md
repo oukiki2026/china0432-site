@@ -7,6 +7,8 @@ description: "About china0432.com: a bilingual Jilin hometown culture site."
 
 china0432.com is a bilingual hometown culture site about Jilin, China — "china" for the country, "0432" for Jilin City's area code.
 
+> **Disclaimer**: This is a privately run, non-governmental website, not affiliated with the Jilin Municipal People's Government or any government agency. For official government services, please visit the official government websites.
+
 ## What we do
 
 - **Jilin Heritage** (吉林文脈): history, old photos, place names and dialect — preserving Jilin's yesterday in images and words.
