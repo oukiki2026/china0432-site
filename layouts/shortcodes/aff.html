@@ -1,0 +1,28 @@
+{{/* Affiliate link shortcode.
+  Usage:
+    {{< aff provider="tripcom" href="https://www.trip.com/hotels/" text="Book on Trip.com" >}}
+    {{< aff provider="tripcom" href="https://www.trip.com/hotels/" >}}Book on Trip.com{{< /aff >}}
+
+  Behaviour is driven by data/affiliates.yaml:
+  - provider disabled (or unknown)  -> plain <a> link, no tracking, no disclosure
+  - provider enabled with tracking_url -> tracking deep-link,
+    target="_blank" rel="sponsored noopener", and the article gets an
+    automatic disclosure box (via .Page.Scratch "has_affiliate").
+*/}}
+{{- $provider := .Get "provider" -}}
+{{- $href := .Get "href" -}}
+{{- $text := .Get "text" -}}
+{{- if not $text }}{{ $text = .Inner }}{{- end -}}
+{{- $global := site.Data.affiliates.enabled | default false -}}
+{{- $cfg := index site.Data.affiliates.providers $provider -}}
+{{- $url := $href -}}
+{{- $isAff := false -}}
+{{- if and $global $cfg ($cfg.enabled | default false) $cfg.tracking_url -}}
+  {{- $param := $cfg.deeplink_param | default "ulp" -}}
+  {{- $sep := "?" -}}
+  {{- if in $cfg.tracking_url "?" }}{{ $sep = "&" }}{{ end -}}
+  {{- $url = printf "%s%s%s=%s" $cfg.tracking_url $sep $param ($href | urlquery) -}}
+  {{- $isAff = true -}}
+{{- end -}}
+{{- if $isAff }}{{ .Page.Scratch.Set "has_affiliate" true }}{{ end -}}
+<a href="{{ $url }}"{{ if $isAff }} target="_blank" rel="sponsored noopener" class="aff-link"{{ end }}>{{ $text }}</a>

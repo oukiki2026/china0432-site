@@ -1,0 +1,34 @@
+# Affiliate link management for china0432.com
+#
+# HOW IT WORKS
+#  - Authors use the {{< aff >}} shortcode instead of raw links for partner URLs:
+#      {{< aff provider="tripcom" href="https://www.trip.com/hotels/" text="Book on Trip.com" >}}
+#    or with inner text:
+#      {{< aff provider="tripcom" href="https://www.trip.com/hotels/" >}}Book on Trip.com{{< /aff >}}
+#  - While a provider is disabled (default), the shortcode renders a PLAIN, useful
+#    link — content stays correct and helpful before any program is approved.
+#  - After approval (e.g. via Admitad), set enabled: true and paste the tracking
+#    base URL. Links then automatically become tracking links with
+#    rel="sponsored noopener" + target="_blank", and a disclosure box appears
+#    on every article that uses affiliate links.
+#  - The global `enabled` switch below is the kill switch for the whole system.
+
+enabled: false
+
+disclosure_text:
+  en: "Disclosure: this article contains affiliate links. If you book through them, we may earn a commission at no extra cost to you."
+  zh-hant: "揭露：本文含有聯盟行銷連結。透過這些連結預訂，我們可能會獲得佣金，您無需支付額外費用。"
+
+providers:
+  tripcom:
+    name: "Trip.com"
+    enabled: false
+    # Paste the Admitad tracking base URL after the program approves us, e.g.
+    # tracking_url: "https://ad.admitad.com/g/xxxxxxxxxx/"
+    tracking_url: ""
+    deeplink_param: "ulp"
+  viator:
+    name: "Viator"
+    enabled: false
+    tracking_url: ""
+    deeplink_param: "ulp"

@@ -15,6 +15,11 @@
   </figure>
   {{ end }}
   <div class="content">{{ .Content }}</div>
+  {{ if .Scratch.Get "has_affiliate" }}
+  <aside class="aff-disclosure">
+    {{ if eq .Language.Lang "zh-hant" }}{{ index site.Data.affiliates.disclosure_text "zh-hant" }}{{ else }}{{ site.Data.affiliates.disclosure_text.en }}{{ end }}
+  </aside>
+  {{ end }}
   <p class="back"><a href="{{ .Parent.RelPermalink }}">← {{ .Parent.Title }}</a></p>
 </article>
 {{ end }}

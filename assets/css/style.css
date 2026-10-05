@@ -103,3 +103,6 @@ img { max-width: 100%; height: auto; display: block; }
 .pronounce-label { font-size: .88rem; white-space: nowrap; }
 .pronounce-list { list-style: none; padding: 0; }
 .pronounce-list li { margin: .4rem 0; }
+
+/* Affiliate disclosure box (auto-rendered on articles using {{< aff >}} links) */
+.aff-disclosure { background: #faf6ee; border-left: 3px solid #c9a227; padding: .7rem 1rem; margin: 1.5rem 0; font-size: .88rem; color: #5c5546; border-radius: 0 .4rem .4rem 0; }
