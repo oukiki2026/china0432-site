@@ -96,3 +96,10 @@ img { max-width: 100%; height: auto; display: block; }
   .post-thumb { flex-basis: 100px; }
   .post-thumb img { width: 100px; height: 75px; }
 }
+
+/* Pronunciation player */
+.pronounce { display: inline-flex; align-items: center; gap: .5rem; background: #f7f3ec; border: 1px solid var(--line); border-radius: 2rem; padding: .2rem .9rem .2rem .35rem; margin: .15rem .2rem; vertical-align: middle; }
+.pronounce audio { height: 1.9rem; width: 11rem; }
+.pronounce-label { font-size: .88rem; white-space: nowrap; }
+.pronounce-list { list-style: none; padding: 0; }
+.pronounce-list li { margin: .4rem 0; }

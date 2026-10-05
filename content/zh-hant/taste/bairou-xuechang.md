@@ -4,13 +4,15 @@ date: 2026-10-05
 draft: false
 description: "年關殺年豬，一大鍋殺豬菜端上桌：白肉、血腸、酸菜、粉條，蘸著蒜醬吃。對吉林人來說，這不是一道菜，是一整個冬天的人情味。"
 tags: ["老字號與味道", "殺豬菜", "年味"]
-image: "images/section-heritage-taste.webp"
-image_alt: "殺豬菜示意圖"
-image_source: "AI 生成插畫（示意圖，非實拍）"
+image: "images/article-bairou-xuechang.webp"
+image_alt: "酸菜白肉血腸燉菜實拍"
+image_source: "Techyan / Wikimedia Commons（CC BY-SA 4.0）"
 sample: false
 ---
 
 在吉林，要論年菜裡的頭牌，不是餃子，是殺豬菜。舊時年關，家家戶戶殺年豬，親戚鄰里聚在一桌，吃的就是這一大鍋。
+
+{{< pronounce src="audio/bairou-xuechang.mp3" label="🔊 白肉血腸 báiròu xuècháng（AI 朗讀示範）" >}}
 
 **白肉**，豬五花肉清水白煮，切成大片，肥而不膩，入口即化。**血腸**，新鮮豬血加水、鹽，灌入洗淨的腸衣，煮熟切片，口感嫩滑，帶著股獨特的鮮香。這兩樣往酸菜上一鋪，就是殺豬菜的本體。
 

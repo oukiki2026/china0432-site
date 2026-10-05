@@ -35,6 +35,19 @@ sample: false
 
 **Songhua Lake fish.** White fish and fathead fish from the lake, steamed simply or stewed in an iron pot with tofu and glass noodles. Order it when you're at the lake; in the city, look for restaurants advertising lake fish.
 
+## 🔊 Pronunciation guide
+
+Tap to hear each word (AI-voiced Mandarin demo — listen and repeat):
+
+- 锅包肉 — sweet-and-sour crispy pork {{< pronounce src="audio/guobaorou.mp3" label="guōbāoròu" >}}
+- 酸菜 — pickled cabbage {{< pronounce src="audio/suancai.mp3" label="suāncài" >}}
+- 白肉血肠 — white meat & blood sausage {{< pronounce src="audio/bairou-xuechang.mp3" label="báiròu xuècháng" >}}
+- 冷面 — cold noodles {{< pronounce src="audio/lengmian.mp3" label="lěngmiàn" >}}
+- 煎粉 — pan-fried starch jelly {{< pronounce src="audio/jianfen.mp3" label="jiānfěn" >}}
+- 这个 — "this one" (point at the dish you want) {{< pronounce src="audio/zhege.mp3" label="zhège" >}}
+- 买单 — "the bill, please" {{< pronounce src="audio/maidan.mp3" label="mǎidān" >}}
+- 谢谢 — "thank you" {{< pronounce src="audio/xiexie.mp3" label="xièxie" >}}
+
 ## Where to eat
 
 - **Neighborhood diners （小馆子/家常菜）.** Where locals actually eat: plastic stools, laminated photo menus (sometimes), the best guobaorou of your trip. Dinner crowds peak 6–8 PM.
