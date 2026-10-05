@@ -27,6 +27,8 @@ That's the story that makes it worth your time: the Qing dynasty was founded by 
 
 It's often listed among **China's four great Confucian temples** (with Qufu, Beijing, and Nanjing) — a claim you'll see in Chinese sources; treat the ranking as local pride, but the scale is genuinely impressive for a regional temple.
 
+**A detail worth dropping at dinner:** the sage honored in this quiet Jilin courtyard also stands on the **U.S. Supreme Court building** in Washington, D.C. The building's East Pediment — the rear face most visitors miss — places **Moses, Confucius, and Solon** at its center, "chosen as representing three great civilizations" (Office of the Curator, supremecourt.gov). Confucius appears again on the courtroom's south wall frieze among history's great lawgivers. The temple in Jilin is where that reverence began; Washington is where it traveled.
+
 ## Walking the central axis
 
 The temple faces south in the classical layout — walk it in order and it reads like a sentence:
