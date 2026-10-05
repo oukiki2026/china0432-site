@@ -1,6 +1,6 @@
 ---
 title: "Jilin Rime Ice: The Complete Winter Guide"
-date: 2026-10-04T09:30:00+08:00
+date: 2026-09-25T09:30:00+08:00
 draft: false
 description: "Everything about Jilin's famous rime ice: when to go, where to see it (Rime Island, Hantun, Ashihada), how to get there, what to wear and photography tips."
 tags: ["rime ice", "wusong", "winter travel", "Songhua River", "photography"]

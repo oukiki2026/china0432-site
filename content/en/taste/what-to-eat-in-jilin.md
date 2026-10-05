@@ -1,6 +1,6 @@
 ---
 title: "What to Eat in Jilin: A Foreigner's Food Guide"
-date: 2026-10-05T15:45:00+08:00
+date: 2026-09-28T11:00:00+08:00
 draft: false
 description: "Jilin City food guide for foreign visitors: guobaorou, suan cai, cold noodles, Manchu hotpot and street snacks — what they are, where to find them, and how to order without Chinese."
 tags: ["jilin food", "dongbei cuisine", "guobaorou", "restaurants"]

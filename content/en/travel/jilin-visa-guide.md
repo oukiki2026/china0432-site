@@ -1,6 +1,6 @@
 ---
 title: "Do You Need a Visa to Visit Jilin? China's Entry Rules Explained (2026)"
-date: 2026-10-05T17:00:00+08:00
+date: 2026-10-03T09:00:00+08:00
 draft: false
 description: "Visa rules for visiting Jilin City, China: who gets 30-day visa-free entry, why the 240-hour transit doesn't cover Jilin, and how to get a tourist visa."
 tags: ["visa", "entry requirements", "practical", "planning"]

@@ -1,6 +1,6 @@
 ---
 title: "How to Get to Jilin City: Trains, Flights & Airport Transfers"
-date: 2026-10-05T12:00:00+08:00
+date: 2026-09-23T09:30:00+08:00
 draft: false
 description: "Every way into Jilin City, China: high-speed trains from Beijing, Shenyang, Changchun and Harbin, Changchun airport transfers, and how foreigners buy train tickets."
 tags: ["jilin city", "transportation", "trains", "getting there"]

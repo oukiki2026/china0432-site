@@ -1,6 +1,6 @@
 ---
 title: "Jilin City Travel Guide 2026"
-date: 2026-10-05T11:30:00+08:00
+date: 2026-09-21T09:00:00+08:00
 draft: false
 description: "The essential English guide to Jilin City, China: rime ice season, how to get there, top sights, local food, where to stay and practical tips for foreign visitors."
 tags: ["jilin city", "travel guide", "rime ice", "northeast china"]

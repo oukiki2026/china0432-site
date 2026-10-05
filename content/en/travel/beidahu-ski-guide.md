@@ -1,6 +1,6 @@
 ---
 title: "Beidahu Ski Resort: Jilin's Powder Mountain Guide (2026–2027 Season)"
-date: 2026-10-05T20:00:00+08:00
+date: 2026-10-05T09:00:00+08:00
 draft: false
 description: "Beidahu Ski Resort near Jilin City: dry powder, 870m vertical, night skiing, how to get there, where to stay, and how to combine it with rime ice in one winter trip."
 tags: ["beidahu", "skiing", "winter", "powder", "day trip"]

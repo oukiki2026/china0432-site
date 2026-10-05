@@ -1,6 +1,6 @@
 ---
 title: "Jilin Confucian Temple: The Northeast's First Temple to Confucius"
-date: 2026-10-05T18:00:00+08:00
+date: 2026-10-02T09:00:00+08:00
 draft: false
 description: "Jilin Confucian Temple (Jilin Wenmiao): history, what to see along the central axis, tickets and visiting tips — the Qing dynasty's first Confucian temple in Northeast China."
 tags: ["confucian temple", "wenmiao", "history", "culture", "sightseeing"]

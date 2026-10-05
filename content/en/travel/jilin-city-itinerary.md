@@ -1,6 +1,6 @@
 ---
 title: "2 Days in Jilin City: The Perfect Itinerary (Winter & Year-Round)"
-date: 2026-10-05T19:00:00+08:00
+date: 2026-10-04T09:00:00+08:00
 draft: false
 description: "A practical 2-day Jilin City itinerary for foreign visitors: rime island at dawn, Confucian temple, Beishan Park, riverfront nights and where to eat — winter and non-winter versions."
 tags: ["itinerary", "2 days", "planning", "rime ice"]

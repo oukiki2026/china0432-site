@@ -1,6 +1,6 @@
 ---
 title: "Jilin Winter Packing List: What to Bring for −25°C"
-date: 2026-10-04T11:00:00+08:00
+date: 2026-10-01T09:00:00+08:00
 draft: false
 description: "Packing for Jilin City in winter? December–February regularly hits −15 to −25°C. The complete clothing, gear and electronics checklist — plus what to buy cheaply on arrival."
 tags: ["winter", "packing list", "practical", "rime ice"]

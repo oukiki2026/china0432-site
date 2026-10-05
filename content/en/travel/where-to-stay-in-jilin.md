@@ -1,6 +1,6 @@
 ---
 title: "Where to Stay in Jilin: Your First Night, Sorted"
-date: 2026-10-05T16:30:00+08:00
+date: 2026-09-27T10:00:00+08:00
 draft: false
 description: "Where to stay in Jilin City as a foreign visitor: best areas for your first night, how to book a hotel that accepts passports, setting up Alipay/WeChat Pay before you land, and getting from the station to your room."
 tags: ["where to stay in Jilin", "first night", "hotels", "practical", "Alipay"]
