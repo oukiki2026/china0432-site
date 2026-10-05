@@ -5,8 +5,8 @@ draft: false
 description: "Every winter, mist from the Songhua River freezes onto riverside trees, turning miles of riverbank into crystal. A practical guide to seeing Jilin's famous rime ice."
 tags: ["rime ice", "Songhua River", "winter travel"]
 image: "images/section-travel-culture.webp"
-image_alt: "Placeholder: rime ice on the Songhua River"
-image_source: "AI-generated illustration (not a real photo)"
+image_alt: "Rime ice in Jilin (real photo)"
+image_source: "Photo © Jacky Lee / Wikimedia Commons (CC BY 3.0)"
 sample: true
 ---
 

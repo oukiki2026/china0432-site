@@ -36,7 +36,8 @@ img { max-width: 100%; height: auto; display: block; }
 
 /* Home */
 .hero { padding: 2.5rem 0 1.5rem; }
-.hero-img { border-radius: 12px; margin: 0 0 1.2rem; }
+.hero-img { border-radius: 12px; margin: 0 0 .3rem; }
+.hero-credit { color: var(--muted); font-size: .78rem; margin: 0 0 1.2rem; }
 .hero h1 { font-size: 2rem; margin: 0 0 .5rem; letter-spacing: .05em; }
 .lead { color: var(--muted); font-size: 1.05rem; margin: 0; }
 .sections-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; padding: 1rem 0 3rem; }

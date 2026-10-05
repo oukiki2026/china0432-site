@@ -5,8 +5,8 @@ draft: false
 description: "每年 12 月至次年 2 月，松花江畔霧氣凝霜，玉樹瓊枝綿延十里——吉林霧凇觀賞全攻略。"
 tags: ["霧凇", "松花江", "冬季旅遊"]
 image: "images/section-travel-culture.webp"
-image_alt: "佔位圖：松花江霧凇示意"
-image_source: "AI 生成插畫（示意圖，非實拍）"
+image_alt: "吉林霧凇實拍"
+image_source: "實拍 © Jacky Lee／Wikimedia Commons（CC BY 3.0）"
 sample: true
 ---
 

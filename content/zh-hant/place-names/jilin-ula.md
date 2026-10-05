@@ -5,8 +5,8 @@ draft: false
 description: "「吉林」二字從何而來？它源自滿語「吉林烏拉」，意為沿江。從三百多年前的水師駐地到今天的江城，這個名字裡藏著吉林市的全部身世。"
 tags: ["老地名", "吉林烏拉", "建城史"]
 image: "images/section-place-names.webp"
-image_alt: "松花江江畔示意圖"
-image_source: "AI 生成插畫（示意圖，非實拍）"
+image_alt: "吉林市傳統鼓樓建築實拍"
+image_source: "實拍 © George Wenn／Wikimedia Commons（CC BY-SA 3.0）"
 sample: false
 ---
 
