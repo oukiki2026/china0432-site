@@ -85,6 +85,8 @@ img { max-width: 100%; height: auto; display: block; }
 /* Footer */
 .site-footer { border-top: 1px solid var(--line); padding: 1.5rem 0 2.5rem; color: var(--muted); font-size: .85rem; }
 .site-footer p { margin: .2rem 0; }
+.foot-links a { color: var(--muted); margin-right: .2rem; }
+.foot-links a:hover { color: var(--accent); }
 
 @media (max-width: 600px) {
   body { font-size: 16px; }

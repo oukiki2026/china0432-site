@@ -1,0 +1,25 @@
+# 栏目重组 2026-10-05：旧栏目 301 永久跳转到新栏目
+/old-photos /heritage 301
+/old-photos/* /heritage/:splat 301
+/place-names /heritage 301
+/place-names/* /heritage/:splat 301
+/dialect /heritage 301
+/dialect/* /heritage/:splat 301
+/heritage-taste /taste 301
+/heritage-taste/* /taste/:splat 301
+/travel-culture /travel 301
+/travel-culture/* /travel/:splat 301
+/practical-info /travel 301
+/practical-info/* /travel/:splat 301
+/en/old-photos /en/ 301
+/en/old-photos/* /en/ 301
+/en/place-names /en/ 301
+/en/place-names/* /en/ 301
+/en/dialect /en/ 301
+/en/dialect/* /en/ 301
+/en/heritage-taste /en/taste 301
+/en/heritage-taste/* /en/taste/:splat 301
+/en/travel-culture /en/travel 301
+/en/travel-culture/* /en/travel/:splat 301
+/en/practical-info /en/travel 301
+/en/practical-info/* /en/travel/:splat 301

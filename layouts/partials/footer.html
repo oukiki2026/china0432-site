@@ -1,6 +1,12 @@
 <footer class="site-footer">
   <div class="wrap">
     <p>© {{ now.Format "2006" }} {{ .Site.Title }} · china0432.com</p>
+    <p class="foot-links">
+      {{ with .Site.GetPage "/about" }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }} ·
+      {{ with .Site.GetPage "/contact" }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }} ·
+      {{ with .Site.GetPage "/privacy" }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }} ·
+      {{ with .Site.GetPage "/copyright" }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
+    </p>
     <p class="foot-note">{{ if eq .Language.Lang "zh-hant" }}本站內容為原創，轉載請註明出處；圖片均註明來源（Wikimedia Commons 遵循其授權協議，AI 生成插畫已標註）。{{ else }}Original content — please credit when sharing; all images are sourced (Wikimedia Commons images follow their licenses, AI-generated illustrations are labeled).{{ end }}</p>
   </div>
 </footer>

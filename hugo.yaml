@@ -18,7 +18,7 @@ languages:
     title: 吉林家鄉文化
     weight: 1
     params:
-      description: 吉林老照片、老地名、方言俚語、老字號味道與旅遊文化——雙語家鄉文化站
+      description: 吉林文脈、尋味吉林、旅遊攻略——雙語家鄉文化站
       articleUnit: 篇文章
   en:
     label: English
@@ -27,18 +27,15 @@ languages:
     title: Jilin Hometown Culture
     weight: 2
     params:
-      description: Old photos, place names, dialect, heritage flavors, travel and culture of Jilin, China — a bilingual hometown heritage site
+      description: Jilin heritage, flavors and travel guides — a bilingual hometown culture site
       articleUnit: articles
 
-# 六個欄目（中英同構，順序即導航順序）
+# 三個欄目（順序即導航順序；英文站僅 travel/taste，缺失欄目自動隱藏）
 params:
   sections:
-    - key: old-photos
-    - key: place-names
-    - key: dialect
-    - key: heritage-taste
-    - key: travel-culture
-    - key: practical-info
+    - key: heritage
+    - key: taste
+    - key: travel
 
 markup:
   goldmark:
