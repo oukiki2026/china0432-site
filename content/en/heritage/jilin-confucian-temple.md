@@ -46,7 +46,7 @@ Side halls hold exhibitions on Confucius's life, stone carvings, and portraits o
 
 - **Tickets:** inexpensive — around ¥15 at last check. Prices and hours shift; confirm before you go. (One Chinese travel site lists summer hours 8:00–19:00, other seasons 8:30–16:00 — treat as indicative, not gospel.)
 - **How long:** 1.5–2 hours at a stroll.
-- **Combine with:** it's in the city, so pair it with a Songhua riverfront walk or the Beishan Park area — a 2-day Jilin itinerary is coming in this series.
+- **Combine with:** it's in the city, so pair it with a Songhua riverfront walk or the Beishan Park area — see our [2-day Jilin itinerary](/travel/jilin-city-itinerary/) for the full route.
 - **The flea market:** reviewers mention an antiques/flea market just outside the temple — worth a browse for old coins, calligraphy brushes, and the occasional genuine curiosity among the reproductions.
 - **Etiquette:** it's a historical site and former place of worship, not an active temple — but keep voices down in the halls all the same.
 

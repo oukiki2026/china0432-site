@@ -62,6 +62,8 @@ Prices shift by season; treat these as rough guides, not gospel: island admissio
 - **Camera:** batteries drain alarmingly fast in extreme cold — carry spares **inside your coat**, close to your body. A tripod is worth the weight; backlit shots (shooting toward the low sun through the ice) are the money shots. Keep lens changes quick to avoid condensation.
 - **Phone:** keep it in an inside pocket; touchscreens get sluggish in the cold.
 
+The full head-to-toe checklist — layers, boots, heat packs, and what to buy cheaply on arrival — is in our [Jilin winter packing list](/travel/winter-packing/).
+
 ## Should you stay overnight?
 
 If rime is the whole point of your trip, yes — stay a night in a **Hantun Village farmyard**. You'll sleep on a heated *kang* bed, eat farmhouse food (stewed chicken with mushrooms is the classic), and wake up already on the island for the 6 AM light instead of racing from downtown. Villagers are famously hospitable, though don't expect English.

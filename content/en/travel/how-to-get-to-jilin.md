@@ -77,6 +77,8 @@ Jilin Railway Station sits close to the city center. From the station square:
 - **City buses** fan out across the city for a couple of yuan — you'll need small change or a transit QR code in Alipay.
 - If your hotel is on the **Songjiang Middle Road riverfront**, say "Songjiang Zhong Lu" (松江中路) to the driver.
 
+Not booked yet? See [where to stay in Jilin](/travel/where-to-stay-in-jilin/) for the first-night playbook.
+
 ## A note on driving yourself
 
 Don't. International Driving Permits are **not recognized** in mainland China, and you need a Chinese license to drive legally. Highways are well maintained but local driving culture is assertive. If you want road-trip flexibility, hire a car with a driver — it's affordable by Western standards.

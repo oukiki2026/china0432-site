@@ -22,4 +22,31 @@
     {{ end }}
   {{ end }}
 </section>
+
+{{ $keys := slice }}
+{{ range .Site.Params.sections }}{{ $keys = $keys | append .key }}{{ end }}
+{{ $latest := first 6 (where .Site.RegularPages.ByDate.Reverse "Section" "in" $keys) }}
+{{ with $latest }}
+<section class="latest" aria-label="{{ if eq $.Language.Lang "zh-hant" }}最新文章{{ else }}Latest articles{{ end }}">
+  <h2 class="latest-title">{{ if eq $.Language.Lang "zh-hant" }}最新文章{{ else }}Latest articles{{ end }}</h2>
+  <ul class="post-list">
+    {{ range . }}
+    {{ $p := . }}
+    <li class="post-item">
+      {{ with $p.Params.image }}
+      <a class="post-thumb" href="{{ $p.RelPermalink }}" aria-hidden="true" tabindex="-1"><img src="{{ . | relURL }}" alt="" loading="lazy"></a>
+      {{ end }}
+      <div class="post-text">
+        <a class="post-link" href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
+        <span class="post-meta">
+          {{ with $.Site.GetPage (printf "/%s" $p.Section) }}{{ .Title }} · {{ end }}
+          <time datetime="{{ $p.Date.Format "2006-01-02" }}">{{ $p.Date.Format "2006-01-02" }}</time>
+        </span>
+        {{ with $p.Description }}<p class="post-desc">{{ . }}</p>{{ end }}
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
 {{ end }}

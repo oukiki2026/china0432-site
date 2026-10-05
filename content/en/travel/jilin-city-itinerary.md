@@ -24,7 +24,7 @@ New here? Start with the [Jilin City Travel Guide 2026](/travel/jilin-city-trave
 Arrive by high-speed rail at Jilin Railway Station or via Changchun Longjia Airport (see [how to get to Jilin](/travel/how-to-get-to-jilin/)). Check into your hotel — [where to stay](/travel/where-to-stay-in-jilin/) — and drop your bags. If you land before noon, add a lazy riverside warm-up walk.
 
 **Mid-afternoon: Jilin Confucian Temple （吉林文庙） — 1.5 to 2 hours.**
-The Qing dynasty's first Confucian temple in the Northeast (1736; moved and expanded 1909). Walk the central axis in order — screen wall, Pan Pond, Lingxing Gate, Dacheng Hall, Chongsheng Hall — and don't miss the story: Manchu rulers building Confucius's temple at the empire's edge. Full guide: [Jilin Confucian Temple](/travel/jilin-confucian-temple/).
+The Qing dynasty's first Confucian temple in the Northeast (1736; moved and expanded 1909). Walk the central axis in order — screen wall, Pan Pond, Lingxing Gate, Dacheng Hall, Chongsheng Hall — and don't miss the story: Manchu rulers building Confucius's temple at the empire's edge. Full guide: [Jilin Confucian Temple](/heritage/jilin-confucian-temple/).
 
 **Evening: the riverfront & your first Jilin dinner.**
 Walk **Songjiang Middle Road** along the Songhua River as the lights come on — this is Jilin's prettiest hour. Then dinner: order **guobaorou （锅包肉）** and **suan cai stewed pork** at a busy local restaurant. Ordering survival kit: [what to eat in Jilin](/taste/what-to-eat-in-jilin/).
@@ -60,7 +60,7 @@ Walk the Songjiang Middle Road riverbank in daylight, or take a half-day trip to
 
 ## Extend it: the third day
 
-- **Winter:** **Beidahu Ski Resort** — one of China's better ski mountains, about an hour from the city. Full guide coming in this series.
+- **Winter:** **Beidahu Ski Resort** — one of China's better ski mountains, about an hour from the city. Full guide: [Beidahu Ski Resort](/travel/beidahu-ski-guide/).
 - **Any season:** **Wulajie Manchu Town** deep-dive — Manchu hotpot in its home setting, combined with Rime Island in winter.
 - **Summer:** Songhua Lake deserves a full slow day, not a rushed afternoon.
 

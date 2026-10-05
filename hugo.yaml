@@ -30,7 +30,7 @@ languages:
       description: 吉林文脈、尋味吉林、旅遊攻略——雙語家鄉文化站
       articleUnit: 篇文章
 
-# 三個欄目（順序即導航順序；英文站僅 travel/taste，缺失欄目自動隱藏）
+# 三個欄目（順序即導航順序；中英同為 heritage/taste/travel，缺失欄目自動隱藏）
 params:
   # GA4 衡量 ID：填入 G-XXXXXXXXXX 后重新构建部署即生效（留空则不输出追踪代码）
   ga4measurementid: "G-NHT7JYNB2Y"

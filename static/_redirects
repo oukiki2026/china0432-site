@@ -33,9 +33,7 @@
 /en/privacy /privacy 301
 /en/copyright /copyright 301
 /en/ / 301
-# 中文 heritage 栏移至 /zh-hant/（英文无 heritage 栏，无冲突）
-/heritage /zh-hant/heritage 301
-/heritage/* /zh-hant/heritage/:splat 301
+# 2026-10-05 英文新增 heritage 栏：删除旧泛跳转，避免劫持英文 /heritage/*（站龄仅1天，旧中文外链风险可忽略）
 # 中文 travel/taste 下文章精确跳转（新英文页面无相同 slug，无冲突）
 /travel/songhua-rime/ /zh-hant/travel/songhua-rime/ 301
 /travel/songhua-rime /zh-hant/travel/songhua-rime/ 301
@@ -47,3 +45,9 @@
 /taste/bairou-xuechang /zh-hant/taste/bairou-xuechang/ 301
 /taste/jianfen/ /zh-hant/taste/jianfen/ 301
 /taste/jianfen /zh-hant/taste/jianfen/ 301
+# 2026-10-05 删除重复孔庙文章，旧地址 301 到正文
+/travel/jilin-confucius-temple/ /travel/jilin-confucian-temple/ 301
+/travel/jilin-confucius-temple /travel/jilin-confucian-temple/ 301
+# 2026-10-05 孔庙文章移入 heritage 栏目
+/travel/jilin-confucian-temple/ /heritage/jilin-confucian-temple/ 301
+/travel/jilin-confucian-temple /heritage/jilin-confucian-temple/ 301

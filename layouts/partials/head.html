@@ -2,6 +2,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ if .IsHome }}{{ .Site.Title }} — {{ .Site.Params.description }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
+{{/* Admitad/Mitgo 網站所有權驗證（僅首頁） */}}
+{{ if .IsHome }}<meta name="mitgo-verification" content="e2592817-4811-4a24-8ec5-08e912aefbc2" />{{ end }}
 <link rel="canonical" href="{{ .Permalink }}">
 {{/* hreflang：每種語言版本互相標註，x-default 指向預設語言（英文）版本 */}}
 {{ range .AllTranslations }}

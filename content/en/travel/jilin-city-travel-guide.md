@@ -45,7 +45,7 @@ Jilin City has no international airport of its own. The standard playbook:
 - **By high-speed train:** Jilin Railway Station （吉林站） connects to Changchun (40–70 min, very frequent), Harbin (2–2.5 h), Shenyang (2–2.5 h) and Beijing (5–6 h).
 - **Booking as a foreigner:** China's 12306 system requires a Chinese ID, so most visitors book through **Trip.com** with a passport, or buy at the station with your passport.
 
-A full step-by-step transport guide — Beijing/Shenyang/Changchun departures, the CGQ airport transfer, and ticket-buying walkthrough — is coming next in this series.
+The full step-by-step transport guide — Beijing/Shenyang/Changchun departures, the CGQ airport transfer, and the ticket-buying walkthrough — is here: [how to get to Jilin City](/travel/how-to-get-to-jilin/).
 
 ## Top things to do
 
@@ -53,7 +53,7 @@ A full step-by-step transport guide — Beijing/Shenyang/Changchun departures, t
 
 **2. Beishan Park （北山公园）.** The city's beloved hill park — temples, pavilions and pagodas stacked up a forested slope, with panoramic views over the river city. Equally good for a winter rime walk or a summer afternoon.
 
-**3. [Jilin Confucian Temple](/travel/jilin-confucius-temple/) （吉林文庙）.** One of the largest Confucian temples in Northeast China, a Qing-dynasty complex of red walls and sweeping roofs — built by Manchu emperors to honor the sage whose civilization they ruled. Quiet, photogenic, and the best single stop for the city's cultural depth.
+**3. [Jilin Confucian Temple](/heritage/jilin-confucian-temple/) （吉林文庙）.** One of the largest Confucian temples in Northeast China, a Qing-dynasty complex of red walls and sweeping roofs — built by Manchu emperors to honor the sage whose civilization they ruled. Quiet, photogenic, and the best single stop for the city's cultural depth.
 
 **4. Jilin Meteorite Museum.** The 1976 Jilin meteorite fall scattered stones across the region; the largest recovered piece — among the biggest stony meteorites in the world — is displayed here.
 
@@ -74,7 +74,7 @@ Two areas make sense for a first visit:
 - **Near Jilin Railway Station / the city center** — practical, well-connected, budget to mid-range business hotels, easy train access.
 - **Songjiang Middle Road riverfront** — wake up to the river; the best base in rime season for sunrise walks.
 
-One foreign-visitor note: most mid-range and up hotels in Jilin accept foreign guests, but smaller guesthouses sometimes cannot complete the required police registration. When in doubt, book a branded hotel (Hanting, Home Inn, or international chains) rather than the cheapest guesthouse. A dedicated first-night guide follows in this series.
+One foreign-visitor note: most mid-range and up hotels in Jilin accept foreign guests, but smaller guesthouses sometimes cannot complete the required police registration. When in doubt, book a branded hotel (Hanting, Home Inn, or international chains) rather than the cheapest guesthouse. Our dedicated first-night guide walks through it all: [where to stay in Jilin](/travel/where-to-stay-in-jilin/).
 
 ## What to eat
 
@@ -94,7 +94,7 @@ Menus are Chinese-only outside hotels. A translation app with camera mode is not
 - **Language:** English is rarely spoken. Download a translation app and an offline map (Amap works well; Google Maps is unreliable in China).
 - **Connectivity:** Google services are blocked in mainland China. Arrange a VPN *before* you arrive, or plan to travel without them. Buy a local SIM or eSIM at the airport for data and mobile payments.
 - **Cold:** Winter temperatures regularly drop below −20°C — colder than Moscow in January; think Winnipeg or northern Minnesota. Layered down, thermal boots with grip, gloves, hat, and a windproof face mask. Exposed skin hurts within minutes.
-- **Visa:** China offers **240-hour visa-free transit** for citizens of 54 countries — worth checking if your itinerary qualifies. A dedicated visa guide is coming in this series.
+- **Visa:** Many nationalities get 30 days visa-free, but note the trap — China's **240-hour transit visa-free does NOT cover Jilin** (it's one of seven provinces excluded). Read [do you need a visa to visit Jilin?](/travel/jilin-visa-guide/) before planning around transit rules.
 
 ## Suggested itineraries
 

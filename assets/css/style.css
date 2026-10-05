@@ -40,7 +40,9 @@ img { max-width: 100%; height: auto; display: block; }
 .hero-credit { color: var(--muted); font-size: .78rem; margin: 0 0 1.2rem; }
 .hero h1 { font-size: 2rem; margin: 0 0 .5rem; letter-spacing: .05em; }
 .lead { color: var(--muted); font-size: 1.05rem; margin: 0; }
-.sections-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; padding: 1rem 0 3rem; }
+.sections-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1rem; padding: 1rem 0 2.5rem; }
+.latest-title { font-size: 1.3rem; margin: 0 0 1rem; }
+.latest { padding-bottom: 3rem; }
 .card { display: block; background: var(--card); border: 1px solid var(--line);
   border-radius: 10px; color: var(--fg); overflow: hidden; padding: 0; }
 .card:hover { text-decoration: none; border-color: var(--accent); }

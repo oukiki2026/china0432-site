@@ -73,7 +73,7 @@ If you're coming from Changchun Longjia Airport (CGQ), the step-by-step transfer
 
 ## Your first evening
 
-Don't over-plan it. Drop your bags, walk the riverside on Songjiang Middle Road, and eat nearby — the full food survival guide (what to order, how to point at a menu) is coming in this series' food article. For tonight: pick a busy-looking local restaurant within walking distance, point at what looks good, and pay by scanning the QR code on the table.
+Don't over-plan it. Drop your bags, walk the riverside on Songjiang Middle Road, and eat nearby — the full food survival guide (what to order, how to point at a menu) is here: [what to eat in Jilin](/taste/what-to-eat-in-jilin/). For tonight: pick a busy-looking local restaurant within walking distance, point at what looks good, and pay by scanning the QR code on the table.
 
 One housekeeping note for the room: **don't drink the tap water** — standard across China. Hotels provide an electric kettle and usually bottled water; boil or use bottled.
 

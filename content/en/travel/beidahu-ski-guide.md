@@ -16,7 +16,7 @@ sample: false
 - **The stats:** **870 m vertical drop**, 27 trails spanning 48 km, 7 high-speed cable cars, and a ~160-day snow season (per resort listings — conditions vary by year).
 - **The snow:** famously **dry powder** — the mountain sits sheltered on three sides, so there's little wind and the snow stays soft.
 - **The headline for Western skiers:** Beidahu is on the **Ikon Pass** — the same pass that opens Aspen, Zermatt, and Niseko now opens a mountain in Jilin.
-- **Season:** typically late November to March/April, snow-dependent. **It's October now — this season's planning starts today.**
+- **Season:** typically late November to March/April, snow-dependent. If you're reading this in autumn, now is the time to start planning.
 
 {{< pronounce src="audio/huaxue.mp3" label="🔊 滑雪 huáxuě = skiing（AI 朗讀示範）" >}}
 
