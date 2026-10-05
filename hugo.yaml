@@ -1,34 +1,34 @@
 baseURL: "https://china0432.com/"
-defaultContentLanguage: zh-hant
+defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
-title: 吉林家鄉文化
+title: Visit Jilin City, China
 paginate: 10
 enableGitInfo: false
 enableRobotsTXT: true   # 內建 robots.txt，可用 layouts/robots.txt 覆寫模板
 
 # 圖片/樣式管線走 Hugo Pipes（需 extended 版）
 # Sitemap：使用 Hugo 內建（每語言自動生成，含 hreflang 對應 URL）
-# RSS：每語言自動生成（/index.xml 與 /en/index.xml）
+# RSS：每語言自動生成（/index.xml 與 /zh-hant/index.xml）
 
 languages:
-  zh-hant:
-    label: 繁體中文
-    languageCode: zh-Hant
-    contentDir: content/zh-hant
-    title: 吉林家鄉文化
-    weight: 1
-    params:
-      description: 吉林文脈、尋味吉林、旅遊攻略——雙語家鄉文化站
-      articleUnit: 篇文章
   en:
     label: English
     languageCode: en
     contentDir: content/en
-    title: Jilin Hometown Culture
+    title: Visit Jilin City, China
+    weight: 1
+    params:
+      description: Travel guide to Jilin City, China — rime ice, heritage, local food and practical tips for international visitors.
+      articleUnit: articles
+  zh-hant:
+    label: 繁體中文
+    languageCode: zh-Hant
+    contentDir: content/zh-hant
+    title: 中國吉林市
     weight: 2
     params:
-      description: Jilin heritage, flavors and travel guides — a bilingual hometown culture site
-      articleUnit: articles
+      description: 吉林文脈、尋味吉林、旅遊攻略——雙語家鄉文化站
+      articleUnit: 篇文章
 
 # 三個欄目（順序即導航順序；英文站僅 travel/taste，缺失欄目自動隱藏）
 params:
