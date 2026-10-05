@@ -20,6 +20,8 @@ sample: false
 
 New to Jilin? Start with the [Jilin City Travel Guide 2026](/travel/jilin-city-travel-guide/), and if you haven't arrived yet, read [how to get to Jilin City](/travel/how-to-get-to-jilin/) first.
 
+{{< pronounce src="audio/jiudian.mp3" label="🔊 酒店 jiǔdiàn = hotel（AI 朗讀示範）" >}}
+
 ## Where to stay: two areas, no wrong answer
 
 Jilin is a compact city. Unlike Beijing or Shanghai, you won't go wrong by picking "downtown" — the two sensible bases for a first night are:
