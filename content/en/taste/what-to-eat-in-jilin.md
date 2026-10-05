@@ -21,15 +21,15 @@ sample: false
 
 **Guobaorou （锅包肉） — sweet-and-sour crispy pork.** Jilin's signature dish and a point of local pride: thin slices of pork, fried crisp, glazed in a translucent sweet-sour sauce with shredded carrot and scallion. Think of it as sweet-and-sour pork the way it was always meant to be — shattering crisp, never the gloopy red stuff. Order it everywhere; compare versions like a local.
 
-**Suan cai stewed pork （酸菜炖肉）.** Pickled cabbage slow-stewed with pork belly, sometimes with blood sausage （血肠）. Think sauerkraut's Chinese cousin — both were born from the same survival logic: fermenting cabbage to get through winter. Sour, fatty, warming — the dish Northeasterners miss most when they leave home. Peak season is winter, when every family has its crock of fermenting cabbage.
+**Suan cai stewed pork （酸菜炖肉）.** Pickled cabbage slow-stewed with pork belly, sometimes with blood sausage （血肠）. Think sauerkraut's Chinese cousin — both were born from the same survival logic: fermenting cabbage to get through winter. The difference: suan cai is typically milder and less vinegary, and where sauerkraut usually plays backup, here it is the main event — simmered long until silky, carrying the whole stew. Sour, fatty, warming — the dish Northeasterners miss most when they leave home. Peak season is winter, when every family has its crock of fermenting cabbage.
 
-**Bairou xuechang （白肉血肠） — "killing the pig" feast.** White boiled pork with garlic dipping sauce plus blood sausage — think Germany's Blutwurst meeting Northeast China — traditionally the centerpiece of the winter pig-slaughter feast. Rich, unapologetic, unforgettable.
+**Bairou xuechang （白肉血肠） — "killing the pig" feast.** White boiled pork with garlic dipping sauce plus blood sausage — think Germany's Blutwurst meeting Northeast China. But here it isn't a breakfast sausage: it arrives sliced into a bubbling stew at the center of the *sha zhu cai* feast, lifted out piece by piece with garlic dip. Same blood-sausage instinct, completely different ritual. Rich, unapologetic, unforgettable.
 
-**Cold noodles （冷面）. ** Jilin's Korean community keeps this ice-cold buckwheat noodle soup authentic: chewy noodles, chilled beefy broth, kimchi, half a boiled egg. The perfect antidote after days of heavy winter food — and excellent in summer.
+**Cold noodles （冷面）. ** If you've had Korea's *naengmyeon*, you'll recognize it instantly — Jilin's Korean community serves it the Yanbian way: chewy buckwheat noodles in ice-cold beefy broth, kimchi, half a boiled egg. The perfect antidote after days of heavy winter food — and excellent in summer.
 
 **Manchu hotpot.** A copper pot of bubbling broth with pickled cabbage, blood sausage and sliced meats, eaten in Wulajie Manchu Town or old-style restaurants in the city. Distinct from Sichuan or Beijing hotpot — sour and savory rather than spicy.
 
-**Jianfen （煎粉） — the street snack.** Jilin's beloved sidewalk food: starch jelly sliced and pan-fried crisp, tossed with chili oil, vinegar and savory sauce. Find it at snack stalls and the jianfen snack street. Costs almost nothing; tastes like the city.
+**Jianfen （煎粉） — the street snack.** Jilin's beloved sidewalk food: starch jelly sliced and pan-fried crisp, tossed with chili oil, vinegar and savory sauce. There is no Western equivalent for this one — chewy, crisp, sour-spicy all at once — and that is exactly why you should try it. Find it at snack stalls and the jianfen snack street. Costs almost nothing; tastes like the city.
 
 **Dumplings （饺子）.** Dongbei runs on dumplings — pork and cabbage, pork and suan cai, lamb and scallion. A plate of twenty with black vinegar is a complete, honest meal.
 
