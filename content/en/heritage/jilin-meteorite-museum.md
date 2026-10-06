@@ -4,9 +4,9 @@ date: 2026-10-07T09:00:00+08:00
 draft: false
 description: "On March 8, 1976, the sky fell on Jilin — the largest witnessed meteorite shower in history. The 1,770 kg Jilin No. 1 is the biggest single stony meteorite ever found. Museum guide, science, and visiting tips."
 tags: ["meteorite", "museum", "science", "1976", "sightseeing"]
-image: "images/article-meteorite-museum.webp"
-image_alt: "Ink-wash illustration of the 1976 meteorite fireball over a Jilin village"
-image_source: "Image: AI-generated illustration (not a real photo)"
+image: "images/photo-jilin-meteorite-real.webp"
+image_alt: "The Jilin No. 1 meteorite on display at the Jilin Meteorite Museum"
+image_source: "Image: Francesc Fort / Wikimedia Commons (CC BY-SA 4.0)"
 sample: false
 ---
 
@@ -15,6 +15,8 @@ sample: false
 - **What happened:** On **March 8, 1976**, a fireball tore over Jilin and shattered 19 km up, raining **138 meteorites** across 500 square kilometers — the largest witnessed meteorite shower in recorded history.
 - **The star:** **Jilin No. 1**, weighing **1,770 kg** — the largest single stony meteorite ever found on Earth. It's here, in this museum, and you can stand next to it.
 - **The museum:** China's first purpose-built meteorite museum, on the south bank of the Songhua River. Half a day, easy to combine with a riverfront walk.
+
+{{< pronounce src="audio/yunshi.mp3" label="🔊 陨石 yǔnshí = meteorite（AI 朗讀示範）" >}}
 
 ## The afternoon the sky fell
 
@@ -60,7 +62,7 @@ Allow **2 hours**. The science exhibits are visual enough to enjoy with minimal 
 ## FAQ
 
 **Is it really the world's largest?**
-The largest *single stony* meteorite, yes — 1,770 kg, and the largest *witnessed* stone fall by total recovered mass. (Iron meteorites can be bigger — Antarctica's got monsters — but among stones that fell while people watched, Jilin stands alone.)
+The largest *single stony* meteorite, yes — 1,770 kg, and the largest *witnessed* stone fall by total recovered mass. (Iron meteorites can be bigger — Namibia's Hoba meteorite weighs about 60 tonnes — but that was a prehistoric fall; among stones that fell while people watched, Jilin stands alone.)
 
 **Can I see where they fell?**
 The strewn field is farmland in Yongji County, north of the city — there's no visitor center at the fall site itself. The museum is the experience.

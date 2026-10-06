@@ -14,7 +14,7 @@ sample: false
 
 - **Where:** A riverside city in Jilin Province, Northeast China, straddling the Songhua River — about 120 km east of Changchun.
 - **Why go:** China's most reliable rime ice (雾凇) each winter, Manchu heritage, hearty Dongbei food, and almost no foreign tourists.
-- **Best time:** December to February for rime ice (peak in January); June to August for green, mild summer days.
+- **Best time:** December to February for rime ice (peak in January); June to August for green, mild summer days. ([Season-by-season breakdown](/travel/best-time-to-visit-jilin/))
 - **How long:** 2–3 days covers the city; add a day each for Rime Island and the ski slopes.
 - **Getting there:** Fly into Changchun Longjia Airport (CGQ), then 40–70 minutes by high-speed train; or ride the rails from Beijing (5–6 hours), Shenyang or Harbin (about 2–2.5 hours).
 

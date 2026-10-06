@@ -16,6 +16,8 @@ sample: false
 - **The history:** Jilin was a Manchu military town long before it was a Chinese city — a river-navy base founded in **1661**, seat of the powerful **General of Jilin**, and for two centuries a closed frontier where Han immigration was restricted.
 - **Today:** visit the **Jilin City Manchu Museum** （吉林市满族博物馆） for the full story, then eat your way through the living traces — Manchu hotpot, qipao origins, and shaman drums.
 
+{{< pronounce src="audio/manzu.mp3" label="🔊 满族 mǎnzú = the Manchu people（AI 朗讀示範）" >}}
+
 ## A city with a Manchu name
 
 Every Chinese city name tells you something. Beijing means "northern capital." Shanghai means "on the sea." Jilin means — nothing, in Chinese. The two characters 吉林 are just phonetic stand-ins for a Manchu phrase: **Girin ula**, "city along the river" — the river being the Songhua, which still loops through the city in a great bend.
@@ -44,7 +46,7 @@ The single best stop is the **Jilin City Manchu Museum** （吉林市满族博�
 - **Eight exhibition halls** cover Manchu history ("Tracing Manchu Roots"), daily life, production, and intangible heritage — papercutting, embroidery, shamanic ritual objects.
 - It's a manageable half-day visit, and pairs naturally with the [Jilin Confucian Temple](/heritage/jilin-confucian-temple/) — the Manchu rulers' tribute to Chinese civilization, just across town.
 
-For a deeper dive, take a day trip to **Wulajie Manchu Town** （乌拉街满族镇） upriver — an old Manchu settlement where the rime-ice crowds go in winter, but the Manchu heritage is the year-round story. (See our [rime ice guide](/travel/rime-ice-guide/) for the winter angle.)
+For a deeper dive, take a day trip to **Wulajie Manchu Town** （乌拉街满族镇） north of the city — an old Manchu settlement where the rime-ice crowds go in winter, but the Manchu heritage is the year-round story. (See our [rime ice guide](/travel/rime-ice-guide/) for the winter angle.)
 
 ## Living traces: food, dress, and drums
 
