@@ -55,7 +55,7 @@ South of downtown, Fengman is where the city goes to exhale: the vast Fengman Re
 
 Jilin is not a nightlife destination, and pretending otherwise would be dishonest. What it has:
 
-- **Night markets** — street food, skewers, and people-watching; the most fun after-dark option.
+- **Night markets** — street food, skewers, and people-watching; the most fun after-dark option. ([Full night market guide](/taste/jilin-night-markets/))
 - **KTV** — the northeastern evening institution. Going with a group is the point; solo KTV is a lonely business.
 - **Small bars** — a modest downtown scene around the central districts; early-closing and local.
 - **Riverside summer nights** — beer, grilled skewers, and the river breeze. In winter, substitute hotpot.
