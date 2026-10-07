@@ -32,6 +32,8 @@ Jilin is a compact city. Unlike Beijing or Shanghai, you won't go wrong by picki
 
 What to pick *within* those areas matters more than which area: look for international brands or upper-mid-range domestic chains (Hanting 汉庭 and Home Inn 如家 are China's answer to Holiday Inn Express — the safest first-night bet in any Chinese city), recent reviews written in English, a 24-hour front desk, and — the one filter that actually matters for you — confirmation that the property registers foreign guests.
 
+For the full area-by-area picture — riverfront vs. Beishan vs. station quarter vs. Fengman, plus where to eat and spend evenings in each — see our [Jilin City neighborhoods guide](/travel/jilin-city-neighborhoods/).
+
 ## Booking as a foreigner: the one thing to get right
 
 Every guest in China is registered with the police at check-in — for Chinese citizens it's an ID-card scan, for you it's your passport details entered into the hotel's system. That registration step is why some smaller or budget properties used to turn foreigners away, claiming they lacked the right "qualifications."
