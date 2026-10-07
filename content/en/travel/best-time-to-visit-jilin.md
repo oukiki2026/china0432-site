@@ -32,7 +32,7 @@ Think of winter Jilin the way you'd think of **Quebec City in February** — the
 
 Ask a Jilin local when the city is prettiest and many will say autumn, not winter. The hills around the Songhua turn gold, the air goes crisp and clear, and daytime temperatures sit in the comfortable teens (°C).
 
-- **Foliage:** late September into October. Beishan Park and the riverside are the easy wins; the Jiaohe red-leaf valley is the day trip.
+- **Foliage:** late September into October. Beishan Park and the riverside are the easy wins; the Jiaohe red-leaf valley is the day trip — see our [day trips guide](/travel/day-trips-from-jilin/) for the full Hongye Valley playbook.
 - **Comfort:** light jacket weather. No −20°C logistics, no peak-season hotel scramble.
 - **The trade-off:** no rime ice, no skiing. If the white trees are the dream, autumn won't satisfy it.
 
