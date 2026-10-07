@@ -26,6 +26,8 @@ Beyond winter, the city repays curious travelers with layers most visitors never
 
 English is scarce and foreign faces are rare. Come prepared, and you will be rewarded with an unusually genuine slice of Northeast China.
 
+Not sure the city matches your travel style? See [who Jilin City is for](/travel/who-is-jilin-city-for/) — photographers, skiers, food lovers, families, history buffs, and budget travelers, each with their own game plan.
+
 ## Best time to visit
 
 | Season | Months | What you get |
