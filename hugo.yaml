@@ -34,6 +34,8 @@ languages:
 params:
   # GA4 衡量 ID：填入 G-XXXXXXXXXX 后重新构建部署即生效（留空则不输出追踪代码）
   ga4measurementid: "G-NHT7JYNB2Y"
+  # Umami Website ID：填入后重新构建部署即生效（留空则不输出追踪代码）
+  umamiwebsiteid: "84382f7d-90ed-4ea8-a17c-acc7806da109"
   sections:
     - key: heritage
     - key: taste

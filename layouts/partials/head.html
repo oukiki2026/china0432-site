@@ -24,3 +24,4 @@
 {{ $css := resources.Get "css/style.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 {{ partial "ga4.html" . }}
+{{ partial "umami.html" . }}

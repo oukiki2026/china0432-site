@@ -1,0 +1,6 @@
+{{/* Umami 网站统计：site.Params.umamiwebsiteid 填入 Website ID 后生效（留空则不输出） */}}
+{{ with site.Params.umamiwebsiteid }}
+{{ if not hugo.IsServer }}
+<script defer src="https://stats.china0432.com/script.js" data-website-id="{{ . }}"></script>
+{{ end }}
+{{ end }}
