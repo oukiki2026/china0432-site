@@ -4,6 +4,9 @@ date: 2026-10-10T09:00:00+08:00
 draft: false
 description: "Jilin City is one of China's cheapest real travel destinations: budget travelers spend ¥300–500 a day, mid-range comfort costs ¥600–900. Realistic prices for hotels, food, transport and skiing."
 tags: ["budget", "costs", "prices", "planning", "money"]
+image: "images/article-jilin-budget.webp"
+image_alt: "Ink-wash illustration of a bustling Jilin morning market"
+image_source: "Image: AI-generated illustration (not a real photo)"
 sample: false
 ---
 
@@ -49,7 +52,7 @@ Two phrases worth knowing at any counter: **多少钱** (duōshao qián — "how
 ## See and do: ¥0–200 a day
 
 - **Free:** the Songhua riverfront walk, Beishan Park (Lan Yue Pavilion views included), the old Henan Street commercial district, Longtan Mountain park. A full pleasant day in Jilin can cost literally nothing in tickets.
-- **Confucian Temple:** **¥20** — the largest in the northeast, and worth every yuan. (See our [temple guide](/heritage/jilin-confucian-temple/).)
+- **Confucian Temple:** **¥15–20** — the largest in the northeast, and worth every yuan. (See our [temple guide](/heritage/jilin-confucian-temple/).)
 - **Er Ren Zhuan folk theater:** **~¥120** — the classic northeastern evening entertainment.
 - **Beidahu skiing:** this is the one category where "cheap China" stops applying in the way skiers expect. Lift tickets, rental and lessons all run **well below Niseko or Alpine prices** — that's the whole pitch — but it's still a full ski-resort day, not a ¥50 outing. Confirm current rates before you go; holiday weekends sell out. Full details in our [Beidahu guide](/travel/beidahu-ski-guide/).
 
