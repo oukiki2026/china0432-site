@@ -12,9 +12,9 @@ sample: false
 
 ## Getting to Jilin City in 30 seconds
 
-- **No international airport** in Jilin City itself — you fly into **Changchun Longjia (CGQ)** and transfer, or arrive by high-speed train.
+- **No international airport** in Jilin City itself. You fly into **Changchun Longjia (CGQ)** and transfer, or arrive by high-speed train.
 - **Fastest rail links:** Changchun → Jilin in 40–70 minutes; Shenyang or Harbin → Jilin in about 2–2.5 hours; Beijing → Jilin in 5–6 hours.
-- **Foreigners can't use 12306** (it requires a Chinese ID) — book through **Trip.com** with your passport, or buy at the station.
+- **Foreigners can't use 12306** (it requires a Chinese ID). Book through **Trip.com** with your passport, or buy at the station.
 - **Cheapest routing** is usually: fly to Changchun, then hop on the intercity high-speed train to Jilin.
 
 ## The big picture
@@ -29,7 +29,7 @@ You have three realistic options:
 
 **High-speed train (recommended).** Beijing → Jilin direct high-speed services take roughly **5–6 hours**. Book a morning train, watch the North China Plain give way to the Northeast, and arrive by afternoon. This is the simplest option if you're already in Beijing.
 
-**Overnight train (budget).** The Z117 Beijing–Jilin through train departs Beijing in the late afternoon and arrives Jilin early the next morning (about 14 hours). A hard or soft sleeper saves a hotel night. Book the sleeper — hard seats for 14 hours are punishing.
+**Overnight train (budget).** The Z117 Beijing–Jilin through train departs Beijing in the late afternoon and arrives Jilin early the next morning (about 14 hours). A hard or soft sleeper saves a hotel night. Book the sleeper. Hard seats for 14 hours are punishing.
 
 **Fly + train.** Fly Beijing → Changchun (frequent, often cheap), then 40–70 minutes by high-speed train to Jilin. Total travel time rivals the direct train once you count airport procedures, but fares can be lower.
 
@@ -45,7 +45,7 @@ This is the workhorse route. Changchun is the provincial capital, 120 km west, a
 - **Frequency:** dozens of trains daily, roughly every 20–30 minutes at peak times
 - **Stations:** most depart Changchun Railway Station; check whether yours leaves from Changchun West
 
-If your flight lands at Changchun, you barely need to think — follow the signs to the rail station and you're in Jilin within the hour.
+If your flight lands at Changchun, you barely need to think. Follow the signs to the rail station and you're in Jilin within the hour.
 
 ## From Harbin
 
@@ -64,24 +64,24 @@ CGQ is the closest airport with international flights (Korea, Japan, Russia, plu
 China's official 12306 booking system requires a Chinese ID card, which you don't have. Your options:
 
 - **Trip.com (recommended).** Book in English with your passport number. There's a small service fee, but it handles seat selection and e-tickets. Book high-demand routes (weekends, holidays, rime season) several days ahead.
-- **At the station.** Bring your passport to any ticket window or the machines that accept passports. Allow extra time — queues can be long and English is limited.
+- **At the station.** Bring your passport to any ticket window or the machines that accept passports. Allow extra time: queues can be long and English is limited.
 - **What you need:** your passport (the number must match the booking), and patience during peak season.
 
-At the station, arrive 30–45 minutes early: you'll pass through a security check, then an ID check at the gate. Follow the crowd — the process is efficient once you're in the flow.
+At the station, arrive 30–45 minutes early: you'll pass through a security check, then an ID check at the gate. Follow the crowd. The process is efficient once you're in the flow.
 
 ## After you arrive
 
 Jilin Railway Station sits close to the city center. From the station square:
 
 - **Didi / taxi** to most downtown hotels: 10–20 minutes.
-- **City buses** fan out across the city for a couple of yuan — you'll need small change or a transit QR code in Alipay.
+- **City buses** fan out across the city for a couple of yuan, so you'll need small change or a transit QR code in Alipay.
 - If your hotel is on the **Songjiang Middle Road riverfront**, say "Songjiang Zhong Lu" (松江中路) to the driver.
 
 Not booked yet? See [where to stay in Jilin](/travel/where-to-stay-in-jilin/) for the first-night playbook.
 
 ## A note on driving yourself
 
-Don't. International Driving Permits are **not recognized** in mainland China, and you need a Chinese license to drive legally. Highways are well maintained but local driving culture is assertive. If you want road-trip flexibility, hire a car with a driver — it's affordable by Western standards.
+Don't. International Driving Permits are **not recognized** in mainland China, and you need a Chinese license to drive legally. Highways are well maintained but local driving culture is assertive. If you want road-trip flexibility, hire a car with a driver; it's affordable by Western standards.
 
 ## FAQ
 
@@ -101,4 +101,4 @@ Yes, a few direct high-speed services daily (2–2.5 hours). If they're sold out
 Late arrivals should take a taxi or Didi directly (90–120 minutes). The shuttle-plus-train combo works well during daytime hours.
 
 **Do I need cash for transport?**
-Not necessarily — Didi and most ticket machines accept mobile payment — but keep some small bills for city buses and as backup.
+Not necessarily (Didi and most ticket machines accept mobile payment), but keep some small bills for city buses and as backup.

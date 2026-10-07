@@ -12,7 +12,7 @@ sample: false
 
 ## Jilin City in 30 seconds
 
-- **Where:** A riverside city in Jilin Province, Northeast China, straddling the Songhua River — about 120 km east of Changchun.
+- **Where:** A riverside city in Jilin Province, Northeast China, straddling the Songhua River, about 120 km east of Changchun.
 - **Why go:** China's most reliable rime ice (雾凇) each winter, Manchu heritage, hearty Dongbei food, and almost no foreign tourists.
 - **Best time:** December to February for rime ice (peak in January); June to August for green, mild summer days. ([Season-by-season breakdown](/travel/best-time-to-visit-jilin/))
 - **How long:** 2–3 days covers the city; add a day each for Rime Island and the ski slopes.
@@ -20,13 +20,13 @@ sample: false
 
 ## Why visit Jilin City?
 
-Jilin City （吉林市） is not on the standard China itinerary — and that is exactly the point. While tour buses crowd Harbin's ice festival two provinces over, Jilin quietly delivers one of China's great winter spectacles: rime ice, when mist off the unfrozen Songhua River freezes onto every riverside branch, turning miles of riverbank into crystal.
+Jilin City （吉林市） isn't on the standard China itinerary. That's the appeal. While tour buses crowd Harbin's ice festival two provinces over, Jilin has one of China's great winter spectacles with a fraction of the crowds: rime ice, when mist off the unfrozen Songhua River freezes onto every riverside branch and turns miles of riverbank white.
 
-Beyond winter, the city repays curious travelers with layers most visitors never peel back: a Manchu past (the name *Jilin* comes from the Manchu *Jilin Ula*, "city along the river"), one of Northeast China's grandest Confucian temples, a meteorite museum holding one of the largest stony meteorites ever recovered, and a food culture built for cold weather — sour, salty, and unapologetically hearty.
+Beyond winter, there's plenty most visitors miss: a Manchu past (the name *Jilin* comes from the Manchu *Jilin Ula*, "city along the river"), one of Northeast China's grandest Confucian temples, a meteorite museum holding one of the largest stony meteorites ever recovered, and food built for cold weather: sour, salty, filling.
 
 English is scarce and foreign faces are rare. Come prepared, and you will be rewarded with an unusually genuine slice of Northeast China.
 
-Not sure the city matches your travel style? See [who Jilin City is for](/travel/who-is-jilin-city-for/) — photographers, skiers, food lovers, families, history buffs, and budget travelers, each with their own game plan.
+Not sure the city matches your travel style? See [who Jilin City is for](/travel/who-is-jilin-city-for/) each with their own game plan (photographers, skiers, food lovers, families, history buffs, and budget travelers).
 
 ## Best time to visit
 
@@ -47,23 +47,23 @@ Jilin City has no international airport of its own. The standard playbook:
 - **By high-speed train:** Jilin Railway Station （吉林站） connects to Changchun (40–70 min, very frequent), Harbin (2–2.5 h), Shenyang (2–2.5 h) and Beijing (5–6 h).
 - **Booking as a foreigner:** China's 12306 system requires a Chinese ID, so most visitors book through **Trip.com** with a passport, or buy at the station with your passport.
 
-The full step-by-step transport guide — Beijing/Shenyang/Changchun departures, the CGQ airport transfer, and the ticket-buying walkthrough — is here: [how to get to Jilin City](/travel/how-to-get-to-jilin/).
+The full step-by-step transport guide (Beijing/Shenyang/Changchun departures, the CGQ airport transfer, and the ticket-buying walkthrough) is here: [how to get to Jilin City](/travel/how-to-get-to-jilin/).
 
 ## Top things to do
 
 **1. See the rime ice.** The city's signature. In the city itself, walk the Songjiang Middle Road riverbank at sunrise; for the full Narnia-like spectacle, day-trip to **Rime Island (Wusong Island)** in Wulajie Manchu Town, about 40 km / 1 hour north. Go between 6 and 9 AM, dress for −20°C, and keep camera batteries warm inside your coat.
 
-**2. Beishan Park （北山公园）.** The city's beloved hill park — temples, pavilions and pagodas stacked up a forested slope, with panoramic views over the river city. Equally good for a winter rime walk or a summer afternoon.
+**2. Beishan Park （北山公园）.** The city's beloved hill park: temples, pavilions and pagodas stacked up a forested slope, with panoramic views over the river city. Equally good for a winter rime walk or a summer afternoon.
 
-**3. [Jilin Confucian Temple](/heritage/jilin-confucian-temple/) （吉林文庙）.** One of the largest Confucian temples in Northeast China, a Qing-dynasty complex of red walls and sweeping roofs — built by Manchu emperors to honor the sage whose civilization they ruled. Quiet, photogenic, and the best single stop for the city's cultural depth. Pair it with the [Manchu Museum](/heritage/manchu-roots-jilin/) for the full story of the garrison town behind the name *Jilin*.
+**3. [Jilin Confucian Temple](/heritage/jilin-confucian-temple/) （吉林文庙）.** One of the largest Confucian temples in Northeast China, a Qing-dynasty complex of red walls and sweeping roofs, built by Manchu emperors to honor the sage whose civilization they ruled. Quiet, photogenic, and the best single stop for the city's cultural depth. Pair it with the [Manchu Museum](/heritage/manchu-roots-jilin/) for the full story of the garrison town behind the name *Jilin*.
 
-**4. [Jilin Meteorite Museum](/heritage/jilin-meteorite-museum/).** The 1976 Jilin meteorite fall scattered stones across the region; the largest recovered piece — among the biggest stony meteorites in the world — is displayed here.
+**4. [Jilin Meteorite Museum](/heritage/jilin-meteorite-museum/).** The 1976 Jilin meteorite fall scattered stones across the region; the largest recovered piece (among the biggest stony meteorites in the world) is displayed here.
 
 **5. Songhua Lake （松花湖）.** A vast reservoir south of the city: summer boating and lakeside walks, winter ice activities, and ski slopes on its shores.
 
 **6. Beidahu Ski Resort.** About an hour from downtown, one of China's better-regarded ski areas with varied runs for beginners through advanced skiers.
 
-**7. Jilin Catholic Church.** A striking Gothic church on the riverfront — a reminder of the city's layered, cosmopolitan past.
+**7. Jilin Catholic Church.** A striking Gothic church on the riverfront, a reminder of the city's layered, cosmopolitan past.
 
 **8. Century Square （世纪广场）.** The modern riverfront square: fountains in summer, ice lanterns in winter, and the city's best night views.
 
@@ -80,7 +80,7 @@ One foreign-visitor note: most mid-range and up hotels in Jilin accept foreign g
 
 ## What to eat
 
-Dongbei food is built for winter: rich, salty, served in heroic portions.
+Dongbei food is built for winter: rich, salty, and the portions are serious.
 
 - **Guobaorou （锅包肉）** — sweet-and-sour crispy pork, the dish Jilin locals defend with pride.
 - **Suan cai dishes** — pickled cabbage stewed with pork and blood sausage; the soul of the northeastern winter table.
@@ -88,15 +88,15 @@ Dongbei food is built for winter: rich, salty, served in heroic portions.
 - **Manchu hotpot** — copper-pot hotpot with pickled cabbage and blood sausage, best tried in Wulajie.
 - **Jianfen （煎粉）** — the city's beloved street snack: pan-fried starch jelly with savory sauce.
 
-Menus are Chinese-only outside hotels. A translation app with camera mode is not optional — it is essential.
+Menus are Chinese-only outside hotels. A translation app with camera mode isn't a nice-to-have. You'll need it.
 
 ## Practical tips for foreign visitors
 
-- **Payments:** Alipay and WeChat Pay both offer international versions you can set up with a foreign card before arrival. Carry some cash as backup — small vendors and taxis may be cash-only.
+- **Payments:** Alipay and WeChat Pay both offer international versions you can set up with a foreign card before arrival. Carry some cash as backup. Small vendors and taxis may be cash-only.
 - **Language:** English is rarely spoken. Download a translation app and an offline map (Amap works well; Google Maps is unreliable in China).
 - **Connectivity:** Google services are blocked in mainland China. Arrange a VPN *before* you arrive, or plan to travel without them. Buy a local SIM or eSIM at the airport for data and mobile payments.
-- **Cold:** Winter temperatures regularly drop below −20°C — colder than Moscow in January; think Winnipeg or northern Minnesota. Layered down, thermal boots with grip, gloves, hat, and a windproof face mask. Exposed skin hurts within minutes.
-- **Visa:** Many nationalities get 30 days visa-free, but note the trap — China's **240-hour transit visa-free does NOT cover Jilin** (it's one of seven provinces excluded). Read [do you need a visa to visit Jilin?](/travel/jilin-visa-guide/) before planning around transit rules.
+- **Cold:** Winter temperatures regularly drop below −20°C. That's colder than Moscow in January — think Winnipeg or northern Minnesota. Layered down, thermal boots with grip, gloves, hat, and a windproof face mask. Exposed skin hurts within minutes.
+- **Visa:** Many nationalities get 30 days visa-free, but note the trap: China's **240-hour transit visa-free does NOT cover Jilin** (it's one of seven provinces excluded). Read [do you need a visa to visit Jilin?](/travel/jilin-visa-guide/) before planning around transit rules.
 
 ## Suggested itineraries
 
@@ -109,7 +109,7 @@ Menus are Chinese-only outside hotels. A translation app with camera mode is not
 ## FAQ
 
 **Is Jilin City worth visiting?**
-If you want China's famous winter scenery without Harbin's crowds — yes, especially December to February. Off-season, it is a pleasant, affordable second-tier stop rather than a must-see.
+If you want China's famous winter scenery without Harbin's crowds, yes — especially December to February. Off-season, it is a pleasant, affordable second-tier stop rather than a must-see.
 
 **How many days do I need in Jilin City?**
 Two full days cover the city highlights. Add one day for Rime Island and one for skiing or Songhua Lake.
@@ -121,7 +121,7 @@ You can see it along the downtown riverbank on good mornings, but Rime Island's 
 It helps enormously. Outside international hotels, assume no English. A translation app, offline maps, and your hotel's address written in Chinese characters will carry you through.
 
 **Is Jilin City safe?**
-Yes — violent crime against visitors is rare. Standard precautions apply: watch belongings in crowds, use registered taxis or Didi, and respect barriers on the frozen river.
+Yes. Violent crime against visitors is rare. Standard precautions apply: watch belongings in crowds, use registered taxis or Didi, and respect barriers on the frozen river.
 
 **When is the rime ice season exactly?**
 Typically December through February, with January the most reliable month. The ice forms overnight and usually melts or falls off by late morning — early risers win.

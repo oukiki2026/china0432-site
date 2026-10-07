@@ -14,7 +14,7 @@ sample: false
 
 - **Many nationalities get 30 days visa-free** — most of Europe, Japan, South Korea, Singapore, Malaysia, Thailand, Australia, New Zealand and more. If your passport is on the list, you can visit Jilin with no visa at all.
 - **Everyone else needs a tourist (L) visa**, applied for *before* you travel at a Chinese embassy or consulate.
-- **The famous 240-hour "transit visa-free" does NOT cover Jilin.** This is the trap most guides won't warn you about — read the section below before planning around it.
+- **The famous 240-hour "transit visa-free" does NOT cover Jilin.** This is the trap most guides won't warn you about. Read the section below before planning around it.
 
 {{< pronounce src="audio/qianzheng.mp3" label="🔊 签证 qiānzhèng = visa（AI 朗讀示範）" >}}
 
@@ -24,7 +24,7 @@ sample: false
 
 China has been expanding unilateral visa-free entry since late 2023. As of 2026, ordinary-passport holders from a long and growing list of countries can enter China for up to **30 days** — tourism, business, family visits — with no visa application, no fee, and no advance registration.
 
-**Who's typically on the list:** most European countries, plus Japan, South Korea, Singapore, Malaysia, Thailand, Australia, New Zealand, Russia, and several others across South America and the Middle East. The list keeps growing — and it currently runs on trial policies mostly announced through **December 31, 2026**, which is exactly why the warning box above exists.
+**Who's typically on the list:** most European countries, plus Japan, South Korea, Singapore, Malaysia, Thailand, Australia, New Zealand, Russia, and several others across South America and the Middle East. The list keeps growing. Note it currently runs on trial policies mostly announced through **December 31, 2026** — hence the warning box above.
 
 **The rules, in brief:**
 - Ordinary passport only (diplomatic/service passports excluded).
@@ -36,7 +36,7 @@ China has been expanding unilateral visa-free entry since late 2023. As of 2026,
 
 ## Path 2: The 240-hour transit — and why it doesn't work for Jilin
 
-You've probably read that China offers **240-hour (10-day) visa-free transit**: fly in from country A, fly out to country C within 10 days, no visa needed. It's real — and it's generous. But it comes with a map, and **Jilin is off that map**.
+You've probably read that China offers **240-hour (10-day) visa-free transit**: fly in from country A, fly out to country C within 10 days, no visa needed. It's real and generous. But it comes with a map, and **Jilin is off that map**.
 
 Here's what the policy actually says (per China's official immigration guidance):
 
@@ -44,20 +44,20 @@ Here's what the policy actually says (per China's official immigration guidance)
 - You must stay **within the permitted area** of your entry region — stray outside it and you risk fines or future entry refusals.
 - **Seven provinces and regions have not implemented the policy at all: Inner Mongolia, Jilin, Xizang, Gansu, Qinghai, Ningxia, and Xinjiang.**
 
-So: you cannot fly into Beijing on 240-hour transit and take the high-speed train to Jilin — that breaks the area rule. You cannot transit through Changchun Longjia Airport on the 240-hour scheme — the airport isn't a designated port for it. **For Jilin specifically, the 240-hour transit is a dead end.** Any guide that lists it as your way into Jilin City hasn't read the fine print.
+So: you cannot fly into Beijing on 240-hour transit and take the high-speed train to Jilin. That breaks the area rule. You cannot transit through Changchun Longjia Airport on the 240-hour scheme. The airport isn't a designated port for it. **For Jilin specifically, the 240-hour transit is a dead end.** Any guide that lists it as your way into Jilin City hasn't read the fine print.
 
-Think of the 240-hour policy as China's answer to the generous layover visa — unusually kind at 10 days — except it arrives with a map attached: 24 provinces in, 7 out, and Jilin is on the outside. That's the difference that matters.
+Think of the 240-hour policy as a generous layover visa — 10 days is unusually kind — except it arrives with a map attached: 24 provinces in, 7 out, and Jilin is on the outside.
 
 (The separate **24-hour transit** exemption exists at virtually all international airports, CGQ included, but it's a tight layover mechanism — not a way to tour Jilin. Check current rules with your airline if your connection is short.)
 
 ## Path 3: Tourist (L) visa — the reliable route
 
-If your passport isn't on the visa-free list, this is your path — and it's straightforward:
+If your passport isn't on the visa-free list, this is your path, and it's straightforward:
 
 1. **Apply before you travel** at the Chinese embassy/consulate or visa application center serving your area. There is no visa-on-arrival for tourism.
 2. **Typical requirements:** passport valid well beyond your trip (6+ months is the common ask), a completed application form, a recent photo, your flight itinerary, and hotel bookings. Requirements and fees **vary by nationality** — your local consulate's website is the authority.
 3. **Timing:** processing is often around 4 working days for standard service (express options usually exist for a fee), but apply **at least a month** before departure. Don't cut it close in winter — rime season waits for no paperwork.
-4. **After arrival:** your hotel registers you with the police at check-in (standard procedure — see our [first-night guide](/travel/where-to-stay-in-jilin/)).
+4. **After arrival:** your hotel registers you with the police at check-in (standard procedure; see our [first-night guide](/travel/where-to-stay-in-jilin/)).
 
 ## Before-you-fly checklist
 
