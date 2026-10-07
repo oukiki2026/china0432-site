@@ -1,0 +1,34 @@
+# Auto-build and deploy china0432.com to Cloudflare Pages on every push to main.
+# Required repo secrets (Settings > Secrets and variables > Actions):
+#   CLOUDFLARE_API_TOKEN  — Cloudflare API token (Pages:Edit scope)
+#   CLOUDFLARE_ACCOUNT_ID — Cloudflare account ID (0999d629cf5841e8294437dc72f108c1)
+name: Deploy to Cloudflare Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.167.0"
+          extended: true
+
+      - name: Build
+        run: hugo --minify --buildFuture
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy public --project-name=china0432-site
