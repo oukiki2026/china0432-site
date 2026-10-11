@@ -20,8 +20,18 @@
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
-{{/* 極簡 CSS，經 Hugo Pipes 壓縮；全站零 JavaScript（GA4 除外） */}}
+{{/* 極簡 CSS，經 Hugo Pipes 壓縮；全站 JS 僅 GA4、Umami 統計與 Travelpayouts Drive 聯盟腳本 */}}
 {{ $css := resources.Get "css/style.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 {{ partial "ga4.html" . }}
 {{ partial "umami.html" . }}
+{{/* Travelpayouts Drive：官方聯盟自動化腳本（2026-10-11 經後台 Manual installation 取得，用戶已授權安裝） */}}
+<script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
+  (function () {
+      var script = document.createElement("script");
+      script.async = 1;
+      script.setAttribute("data-cmp-ab","2");
+      script.src = 'https://emrld.ltd/NTg0MDAx.js?t=584001';
+      document.head.appendChild(script);
+  })();
+</script>
