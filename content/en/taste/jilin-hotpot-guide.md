@@ -1,7 +1,7 @@
 ---
 title: "Jilin Hotpot Guide: Dongbei Sour-Cabbage Hotpot, Explained"
 date: 2026-10-12T09:00:00+08:00
-draft: true
+draft: false
 description: "Jilin hotpot guide: the Dongbei sour-cabbage-and-pork hotpot (酸菜白肉火锅) in a charcoal copper pot. What goes in, the sauce bar, how to eat it, and what it costs."
 tags: ["hotpot", "jilin food", "dongbei cuisine", "suan cai", "food guide"]
 image: "images/article-jilin-hotpot.webp"
