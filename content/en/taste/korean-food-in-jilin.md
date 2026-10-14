@@ -1,7 +1,7 @@
 ---
 title: "Korean Food in Jilin: Cold Noodles, Kimchi, and the Yanbian Table"
 date: 2026-10-14T09:00:00+08:00
-draft: true
+draft: false
 description: "Korean food in Jilin: the Yanbian Korean table behind the city's cold noodles, kimchi, BBQ, and rice cakes. What to order, how to eat naengmyeon, and where the flavors come from."
 tags: ["korean food", "jilin food", "cold noodles", "kimchi", "food guide"]
 image: "images/article-korean-food.webp"
@@ -55,7 +55,7 @@ Korean restaurants cluster around the commercial streets and near the train stat
 
 If the topic grabs you, Yanji, the capital of the Yanbian prefecture east of Jilin, is the pilgrimage version: a whole city where Korean is on every sign and the food culture runs deeper. It is a separate trip, not a side quest. Jilin city itself gives you the cuisine at full strength.
 
-## 🔊 Pronunciation guide
+## Pronunciation guide
 
 Tap to hear each word (AI-voiced Mandarin demo: listen and repeat):
 
