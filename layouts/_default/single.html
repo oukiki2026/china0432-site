@@ -6,6 +6,7 @@
   <h1>{{ .Title }}</h1>
   <p class="meta">
     <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+    {{ if in (slice "heritage" "taste" "travel") .Section }} · {{ if eq .Language.Lang "zh-hant" }}作者：{{ else }}By {{ end }}{{ .Params.author | default site.Params.defaultAuthor }}{{ end }}
     {{ with .Params.tags }} · {{ delimit . "、" }}{{ end }}
   </p>
   {{ with .Params.image }}

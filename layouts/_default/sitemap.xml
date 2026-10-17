@@ -1,0 +1,26 @@
+{{/* 自訂 sitemap：基於 Hugo 內建模板，剔除 tags 分類頁（/tags/ 與 /tags/<term>/）。
+   原因：標籤頁大多只有 1 篇文章，屬於瘦內容頁，塞進 sitemap 會浪費抓取配額
+   （2026-10-17 GSC 顯示 95 頁「已發現、尚未編入索引」，主因即此）。
+   保留：首頁、欄目頁、文章頁、about/contact 等單頁、/categories/。 */}}
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  {{ range .Pages }}{{ $isTagPage := and (in (slice "taxonomy" "term") .Kind) (eq .Data.Plural "tags") }}{{ if not $isTagPage }}
+  <url>
+    <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}
+    <lastmod>{{ safeHTML ( .Lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>{{ end }}{{ with .Sitemap.ChangeFreq }}
+    <changefreq>{{ . }}</changefreq>{{ end }}{{ if ge .Sitemap.Priority 0.0 }}
+    <priority>{{ .Sitemap.Priority }}</priority>{{ end }}{{ if .IsTranslated }}{{ range .Translations }}
+    <xhtml:link
+                rel="alternate"
+                hreflang="{{ .Language.LanguageCode }}"
+                href="{{ .Permalink }}"
+                />{{ end }}
+    <xhtml:link
+                rel="alternate"
+                hreflang="{{ .Language.LanguageCode }}"
+                href="{{ .Permalink }}"
+                />{{ end }}
+  </url>
+  {{ end }}{{ end }}
+</urlset>

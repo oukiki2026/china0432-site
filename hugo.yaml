@@ -7,7 +7,8 @@ enableGitInfo: false
 enableRobotsTXT: true   # 內建 robots.txt，可用 layouts/robots.txt 覆寫模板
 
 # 圖片/樣式管線走 Hugo Pipes（需 extended 版）
-# Sitemap：使用 Hugo 內建（每語言自動生成，含 hreflang 對應 URL）
+# Sitemap：Hugo 內建生成（每語言自動生成，含 hreflang 對應 URL），
+# 但用 layouts/_default/sitemap.xml 自訂模板剔除了 /tags/* 瘦標籤頁（2026-10-17 起）
 # RSS：每語言自動生成（/index.xml 與 /zh-hant/index.xml）
 
 languages:
@@ -32,6 +33,8 @@ languages:
 
 # 三個欄目（順序即導航順序；中英同為 heritage/taste/travel，缺失欄目自動隱藏）
 params:
+  # 預設文章署名（編輯部）：單篇文章可用 front matter `author:` 覆寫
+  defaultAuthor: "Rita"
   # GA4 衡量 ID：填入 G-XXXXXXXXXX 后重新构建部署即生效（留空则不输出追踪代码）
   ga4measurementid: "G-NHT7JYNB2Y"
   # Umami Website ID：填入后重新构建部署即生效（留空则不输出追踪代码）
