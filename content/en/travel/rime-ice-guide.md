@@ -42,7 +42,7 @@ Check the overnight forecast, not just the daytime one. A foggy evening is your 
 
 **3. Downtown riverbank (Songjiang Middle Road).** Zero travel time — on a good morning the riverside promenade in the city center is coated too. The best option if you only have one free morning.
 
-**4. Songhua Lake & Beidahu.** Secondary spots worth combining with a ski or lake day, but don't make them your primary rime plan.
+**4. Songhua Lake & [Beidahu](/travel/beidahu-ski-guide/).** Secondary spots worth combining with a ski or lake day, but don't make them your primary rime plan.
 
 ## How to get to Rime Island
 

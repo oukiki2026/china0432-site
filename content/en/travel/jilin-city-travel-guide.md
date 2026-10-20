@@ -61,7 +61,7 @@ The full step-by-step transport guide (Beijing/Shenyang/Changchun departures, th
 
 **5. Songhua Lake （松花湖）.** A vast reservoir south of the city: summer boating and lakeside walks, winter ice activities, and ski slopes on its shores.
 
-**6. Beidahu Ski Resort.** About an hour from downtown, one of China's better-regarded ski areas with varied runs for beginners through advanced skiers.
+**6. [Beidahu Ski Resort](/travel/beidahu-ski-guide/).** About an hour from downtown, one of China's better-regarded ski areas with varied runs for beginners through advanced skiers.
 
 **7. Jilin Catholic Church.** A striking Gothic church on the riverfront, a reminder of the city's layered, cosmopolitan past.
 

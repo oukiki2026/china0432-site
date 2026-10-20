@@ -75,7 +75,7 @@ Northern China has **central heating** from roughly November to March, and it's 
 With proper layers, no. Dry cold is manageable, and you'll be moving between heated indoors constantly. With jeans and sneakers, yes. That's how frostbite happens.
 
 **Can I rent winter clothing in Jilin?**
-Ski resorts (like Beidahu) rent ski wear, but there's no city-wide clothing rental. Buy the cheap stuff locally instead.
+Ski resorts (like [Beidahu](/travel/beidahu-ski-guide/)) rent ski wear, but there's no city-wide clothing rental. Buy the cheap stuff locally instead.
 
 **What about medications?**
 Cold doesn't affect most medications, but inhalers and insulin are temperature-sensitive. Keep them warm, inside your coat.
