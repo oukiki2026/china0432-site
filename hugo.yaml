@@ -21,15 +21,6 @@ languages:
     params:
       description: Travel guide to Jilin City, China — rime ice, heritage, local food and practical tips for international visitors.
       articleUnit: articles
-  zh-hant:
-    label: 繁體中文
-    languageCode: zh-Hant
-    contentDir: content/zh-hant
-    title: 中國吉林市
-    weight: 2
-    params:
-      description: 吉林文脈、尋味吉林、旅遊攻略——雙語家鄉文化站
-      articleUnit: 篇文章
 
 # 三個欄目（順序即導航順序；中英同為 heritage/taste/travel，缺失欄目自動隱藏）
 params:

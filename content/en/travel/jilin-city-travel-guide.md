@@ -51,7 +51,9 @@ The full step-by-step transport guide (Beijing/Shenyang/Changchun departures, th
 
 ## Top things to do
 
-**1. See the rime ice.** The city's signature. In the city itself, walk the Songjiang Middle Road riverbank at sunrise; for the full Narnia-like spectacle, day-trip to **Rime Island (Wusong Island)** in Wulajie Manchu Town, about 40 km / 1 hour north. Go between 6 and 9 AM, dress for −20°C, and keep camera batteries warm inside your coat.
+For the full list with free options, food stops, and day trips, see [Things to Do in Jilin City](/travel/things-to-do-in-jilin-city/).
+
+**1. See the rime ice.** The city's signature. In the city itself, walk the Songjiang Middle Road riverbank at sunrise; for the full Narnia-like spectacle, day-trip to **[Rime Island](/travel/rime-island-jilin/) (Wusong Island)** in Wulajie Manchu Town, about 40 km / 1 hour north. Go between 6 and 9 AM, dress for −20°C, and keep camera batteries warm inside your coat.
 
 **2. Beishan Park （北山公园）.** The city's beloved hill park: temples, pavilions and pagodas stacked up a forested slope, with panoramic views over the river city. Equally good for a winter rime walk or a summer afternoon.
 

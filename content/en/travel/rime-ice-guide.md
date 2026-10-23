@@ -36,7 +36,7 @@ Check the overnight forecast, not just the daytime one. A foggy evening is your 
 
 ## Where to see it, ranked
 
-**1. Rime Island (Wusong Island, 雾凇岛).** The headline act: a river-encircled island in Wulajie Manchu Town, about 40 km (1 hour) north of downtown. The weeping willows along its banks wear the thickest rime in the region. **Hantun Village** on the island is praised as the "first village of rime wonderland" and the top photography spot; **Zengtongtun Village** on the north side is quieter, with a good west-facing bank for sunrise and sunset shots.
+**1. [Rime Island](/travel/rime-island-jilin/) (Wusong Island, 雾凇岛).** The headline act: a river-encircled island in Wulajie Manchu Town, about 40 km (1 hour) north of downtown. The weeping willows along its banks wear the thickest rime in the region. **Hantun Village** on the island is praised as the "first village of rime wonderland" and the top photography spot; **Zengtongtun Village** on the north side is quieter, with a good west-facing bank for sunrise and sunset shots.
 
 **2. Ashihada （阿什哈达）.** The photographers' favorite: convenient transport from the city and a high frequency of rime days. Walk upstream along the river for a panorama of frosted trees in neat rows.
 

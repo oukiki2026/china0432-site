@@ -38,7 +38,7 @@ Sapporo's Snow Festival is the famous cousin, and the comparison is useful becau
 
 ## Five ways to spend the season
 
-**1. Rime mornings.** This is the reason to come. December to February, January most reliable, on the river before 9 AM. Rime Island (雾凇岛） in Wulajie Manchu Town is the headline, the downtown riverbank is the zero-effort version. The full playbook, where to stand, what to wear at minus 20, how to keep a camera alive, is in our [rime ice guide](/travel/rime-ice-guide/).
+**1. Rime mornings.** This is the reason to come. December to February, January most reliable, on the river before 9 AM. [Rime Island](/travel/rime-island-jilin/) (雾凇岛） in Wulajie Manchu Town is the headline, the downtown riverbank is the zero-effort version. The full playbook, where to stand, what to wear at minus 20, how to keep a camera alive, is in our [rime ice guide](/travel/rime-ice-guide/).
 
 **2. Ski days.** Beidahu for the serious mountain (see the [ski guide](/travel/beidahu-ski-guide/)), Songhua Lake for the big-resort experience. Both run roughly late November to March, snow-dependent. A Jilin winter itinerary with two ski days and two rime mornings is the classic strong trip.
 
