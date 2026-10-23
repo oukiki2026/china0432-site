@@ -1,16 +1,16 @@
-# 2026-10-05 栏目重组：旧6栏目 → 新3栏目（中文最终地址）
-/old-photos /zh-hant/heritage 301
-/old-photos/* /zh-hant/heritage/:splat 301
-/place-names /zh-hant/heritage 301
-/place-names/* /zh-hant/heritage/:splat 301
-/dialect /zh-hant/heritage 301
-/dialect/* /zh-hant/heritage/:splat 301
-/heritage-taste /zh-hant/taste 301
-/heritage-taste/* /zh-hant/taste/:splat 301
-/travel-culture /zh-hant/travel 301
-/travel-culture/* /zh-hant/travel/:splat 301
-/practical-info /zh-hant/travel 301
-/practical-info/* /zh-hant/travel/:splat 301
+# 2026-10-05 栏目重组：旧6栏目 → 新3栏目（2026-10-23 去中文化：原指 zh-hant 者改指英文栏目）
+/old-photos /heritage 301
+/old-photos/* /heritage/:splat 301
+/place-names /heritage 301
+/place-names/* /heritage/:splat 301
+/dialect /heritage 301
+/dialect/* /heritage/:splat 301
+/heritage-taste /taste 301
+/heritage-taste/* /taste/:splat 301
+/travel-culture /travel 301
+/travel-culture/* /travel/:splat 301
+/practical-info /travel 301
+/practical-info/* /travel/:splat 301
 # 旧英文栏目
 /en/old-photos / 301
 /en/old-photos/* / 301
@@ -34,20 +34,55 @@
 /en/copyright /copyright 301
 /en/ / 301
 # 2026-10-05 英文新增 heritage 栏：删除旧泛跳转，避免劫持英文 /heritage/*（站龄仅1天，旧中文外链风险可忽略）
-# 中文 travel/taste 下文章精确跳转（新英文页面无相同 slug，无冲突）
-/travel/songhua-rime/ /zh-hant/travel/songhua-rime/ 301
-/travel/songhua-rime /zh-hant/travel/songhua-rime/ 301
-/travel/beishan-temple-fair/ /zh-hant/travel/beishan-temple-fair/ 301
-/travel/beishan-temple-fair /zh-hant/travel/beishan-temple-fair/ 301
-/travel/jilin-winter-guide/ /zh-hant/travel/jilin-winter-guide/ 301
-/travel/jilin-winter-guide /zh-hant/travel/jilin-winter-guide/ 301
-/taste/bairou-xuechang/ /zh-hant/taste/bairou-xuechang/ 301
-/taste/bairou-xuechang /zh-hant/taste/bairou-xuechang/ 301
-/taste/jianfen/ /zh-hant/taste/jianfen/ 301
-/taste/jianfen /zh-hant/taste/jianfen/ 301
+# 中文 travel/taste 下文章精确跳转（2026-10-23 去中文化：原指 zh-hant 者改指博客新地址或英文近似页）
+/travel/songhua-rime/ /travel/rime-ice-guide/ 301
+/travel/songhua-rime /travel/rime-ice-guide/ 301
+/travel/beishan-temple-fair/ /heritage/beishan-park-temples/ 301
+/travel/beishan-temple-fair /heritage/beishan-park-temples/ 301
+/travel/jilin-winter-guide/ https://www.alibagua.com/%e5%90%89%e6%9e%97%e5%86%ac%e5%ad%a3%e7%a9%bf%e8%a1%a3%e4%b8%8e%e5%87%ba%e8%a1%8c%e6%8c%87%e5%8d%97/ 301
+/travel/jilin-winter-guide https://www.alibagua.com/%e5%90%89%e6%9e%97%e5%86%ac%e5%ad%a3%e7%a9%bf%e8%a1%a3%e4%b8%8e%e5%87%ba%e8%a1%8c%e6%8c%87%e5%8d%97/ 301
+/taste/bairou-xuechang/ https://www.alibagua.com/%e7%99%bd%e8%82%89%e8%a1%80%e8%82%a0%ef%bc%9a%e5%90%89%e6%9e%97%e4%ba%ba%e7%9a%84%e6%9d%80%e7%8c%aa%e8%8f%9c%e8%ae%b0%e5%bf%86/ 301
+/taste/bairou-xuechang https://www.alibagua.com/%e7%99%bd%e8%82%89%e8%a1%80%e8%82%a0%ef%bc%9a%e5%90%89%e6%9e%97%e4%ba%ba%e7%9a%84%e6%9d%80%e7%8c%aa%e8%8f%9c%e8%ae%b0%e5%bf%86/ 301
+/taste/jianfen/ https://www.alibagua.com/%e7%85%8e%e7%b2%89%ef%bc%9a%e5%90%89%e6%9e%97%e8%a1%97%e5%a4%b4%e7%9a%84%e5%b9%b3%e6%b0%91%e5%b0%8f%e5%90%83/ 301
+/taste/jianfen https://www.alibagua.com/%e7%85%8e%e7%b2%89%ef%bc%9a%e5%90%89%e6%9e%97%e8%a1%97%e5%a4%b4%e7%9a%84%e5%b9%b3%e6%b0%91%e5%b0%8f%e5%90%83/ 301
 # 2026-10-05 删除重复孔庙文章，旧地址 301 到正文
 /travel/jilin-confucius-temple/ /travel/jilin-confucian-temple/ 301
 /travel/jilin-confucius-temple /travel/jilin-confucian-temple/ 301
 # 2026-10-05 孔庙文章移入 heritage 栏目
 /travel/jilin-confucian-temple/ /heritage/jilin-confucian-temple/ 301
 /travel/jilin-confucian-temple /heritage/jilin-confucian-temple/ 301
+# 2026-10-23 去中文化：已删 zh-hant 17 文件，7 篇旧稿旧地址 301 到 alibagua 博客新地址；zh-hant 首页/栏目/静态页改指英文对应页；2 篇 SAMPLE 占位文（未搬博客）改指英文近似页
+/zh-hant/heritage/jilin-ula/ https://www.alibagua.com/%e5%90%89%e6%9e%97%e4%b9%8c%e6%8b%89%ef%bc%9a%e5%90%89%e6%9e%97%e5%9c%b0%e5%90%8d%e7%9a%84%e7%94%b1%e6%9d%a5/ 301
+/zh-hant/heritage/jilin-ula https://www.alibagua.com/%e5%90%89%e6%9e%97%e4%b9%8c%e6%8b%89%ef%bc%9a%e5%90%89%e6%9e%97%e5%9c%b0%e5%90%8d%e7%9a%84%e7%94%b1%e6%9d%a5/ 301
+/zh-hant/heritage/songhua-river-memory/ https://www.alibagua.com/%e6%9d%be%e8%8a%b1%e6%b1%9f%e6%97%a7%e5%bd%b1%ef%bc%9a%e4%b8%80%e6%9d%a1%e6%b1%9f%e7%9a%84%e5%9f%8e%e5%b8%82%e8%ae%b0%e5%bf%86/ 301
+/zh-hant/heritage/songhua-river-memory https://www.alibagua.com/%e6%9d%be%e8%8a%b1%e6%b1%9f%e6%97%a7%e5%bd%b1%ef%bc%9a%e4%b8%80%e6%9d%a1%e6%b1%9f%e7%9a%84%e5%9f%8e%e5%b8%82%e8%ae%b0%e5%bf%86/ 301
+/zh-hant/heritage/jilin-dialect-words-1/ https://www.alibagua.com/%e5%90%89%e6%9e%97%e8%af%9d%e8%af%8d%e6%9d%a1%ef%bc%88%e4%b8%80%ef%bc%89%ef%bc%9a%e5%98%8e%e5%93%88%e3%80%81%e5%9f%8b%e6%b1%b0%e3%80%81%e5%be%97%e7%91%9f%e3%80%81%e7%a7%83%e5%99%9c%e3%80%81%e7%a3%a8/ 301
+/zh-hant/heritage/jilin-dialect-words-1 https://www.alibagua.com/%e5%90%89%e6%9e%97%e8%af%9d%e8%af%8d%e6%9d%a1%ef%bc%88%e4%b8%80%ef%bc%89%ef%bc%9a%e5%98%8e%e5%93%88%e3%80%81%e5%9f%8b%e6%b1%b0%e3%80%81%e5%be%97%e7%91%9f%e3%80%81%e7%a7%83%e5%99%9c%e3%80%81%e7%a3%a8/ 301
+/zh-hant/heritage/jilin-dialect-words-2/ https://www.alibagua.com/%e5%90%89%e6%9e%97%e8%af%9d%e8%af%8d%e6%9d%a1%ef%bc%88%e4%ba%8c%ef%bc%89%ef%bc%9a%e5%bf%bd%e6%82%a0%e3%80%81%e8%86%88%e5%ba%94%e3%80%81%e6%92%92%e6%ac%a2%e5%84%bf%e3%80%81%e5%90%ad%e5%93%a7%e3%80%81/ 301
+/zh-hant/heritage/jilin-dialect-words-2 https://www.alibagua.com/%e5%90%89%e6%9e%97%e8%af%9d%e8%af%8d%e6%9d%a1%ef%bc%88%e4%ba%8c%ef%bc%89%ef%bc%9a%e5%bf%bd%e6%82%a0%e3%80%81%e8%86%88%e5%ba%94%e3%80%81%e6%92%92%e6%ac%a2%e5%84%bf%e3%80%81%e5%90%ad%e5%93%a7%e3%80%81/ 301
+/zh-hant/taste/bairou-xuechang/ https://www.alibagua.com/%e7%99%bd%e8%82%89%e8%a1%80%e8%82%a0%ef%bc%9a%e5%90%89%e6%9e%97%e4%ba%ba%e7%9a%84%e6%9d%80%e7%8c%aa%e8%8f%9c%e8%ae%b0%e5%bf%86/ 301
+/zh-hant/taste/bairou-xuechang https://www.alibagua.com/%e7%99%bd%e8%82%89%e8%a1%80%e8%82%a0%ef%bc%9a%e5%90%89%e6%9e%97%e4%ba%ba%e7%9a%84%e6%9d%80%e7%8c%aa%e8%8f%9c%e8%ae%b0%e5%bf%86/ 301
+/zh-hant/taste/jianfen/ https://www.alibagua.com/%e7%85%8e%e7%b2%89%ef%bc%9a%e5%90%89%e6%9e%97%e8%a1%97%e5%a4%b4%e7%9a%84%e5%b9%b3%e6%b0%91%e5%b0%8f%e5%90%83/ 301
+/zh-hant/taste/jianfen https://www.alibagua.com/%e7%85%8e%e7%b2%89%ef%bc%9a%e5%90%89%e6%9e%97%e8%a1%97%e5%a4%b4%e7%9a%84%e5%b9%b3%e6%b0%91%e5%b0%8f%e5%90%83/ 301
+/zh-hant/travel/jilin-winter-guide/ https://www.alibagua.com/%e5%90%89%e6%9e%97%e5%86%ac%e5%ad%a3%e7%a9%bf%e8%a1%a3%e4%b8%8e%e5%87%ba%e8%a1%8c%e6%8c%87%e5%8d%97/ 301
+/zh-hant/travel/jilin-winter-guide https://www.alibagua.com/%e5%90%89%e6%9e%97%e5%86%ac%e5%ad%a3%e7%a9%bf%e8%a1%a3%e4%b8%8e%e5%87%ba%e8%a1%8c%e6%8c%87%e5%8d%97/ 301
+/zh-hant/travel/songhua-rime/ /travel/rime-ice-guide/ 301
+/zh-hant/travel/songhua-rime /travel/rime-ice-guide/ 301
+/zh-hant/travel/beishan-temple-fair/ /heritage/beishan-park-temples/ 301
+/zh-hant/travel/beishan-temple-fair /heritage/beishan-park-temples/ 301
+/zh-hant/ / 301
+/zh-hant / 301
+/zh-hant/heritage/ /heritage/ 301
+/zh-hant/heritage /heritage/ 301
+/zh-hant/taste/ /taste/ 301
+/zh-hant/taste /taste/ 301
+/zh-hant/travel/ /travel/ 301
+/zh-hant/travel /travel/ 301
+/zh-hant/about/ /about/ 301
+/zh-hant/about /about/ 301
+/zh-hant/contact/ /contact/ 301
+/zh-hant/contact /contact/ 301
+/zh-hant/privacy/ /privacy/ 301
+/zh-hant/privacy /privacy/ 301
+/zh-hant/copyright/ /copyright/ 301
+/zh-hant/copyright /copyright/ 301
