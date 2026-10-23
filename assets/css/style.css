@@ -10,7 +10,7 @@
   --card: #ffffff;         /* 卡片纯白 */
   --footer-bg: #efe9db;    /* 略深米色 */
   --line: #e5ddc9;         /* 米色线 */
-  --maxw: 760px;
+  --maxw: 960px;
 }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
