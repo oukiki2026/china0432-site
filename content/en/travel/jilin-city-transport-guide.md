@@ -4,6 +4,9 @@ date: 2026-10-19T09:00:00+08:00
 draft: false
 description: "How to get around Jilin City: the bus network, taxis and DiDi, why the Songhua River bend is your compass, and winter transport realities."
 tags: ["jilin city", "transportation", "buses", "taxis", "travel tips", "getting around"]
+image: "images/article-jilin-transport.webp"
+image_alt: "High-speed train at Jilin Railway Station"
+image_source: "Image: JacobLyu / Wikimedia Commons (CC BY-SA 4.0)"
 sample: false
 ---
 
