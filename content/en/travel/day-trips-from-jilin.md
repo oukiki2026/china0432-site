@@ -70,7 +70,7 @@ Technically there are buses toward Jiaohe, but the valley itself is a driving ro
 The north gate operates in winter too, but weather closures are common and Tianchi is often fogged in. Summer and autumn are the reliable windows. Autumn pairs perfectly with a Hongye Valley day.
 
 **What about Rime Island / Wulajie?**
-That's a winter trip, covered in our [rime ice guide](/travel/rime-ice-guide/): 40 minutes north, dawn starts, non-negotiable in December–February.
+That's a winter trip, covered in our [rime ice guide](/travel/rime-ice-guide/) and the [Rime Island day guide](/travel/rime-island-jilin/): 40 minutes north, dawn starts, non-negotiable in December–February.
 
 ---
 

@@ -33,7 +33,7 @@ Walk **Songjiang Middle Road** along the Songhua River as the lights come on. Th
 
 ## Day 2 — Winter version (December–February)
 
-**5:30 AM: depart for Rime Island （雾凇岛）.**
+**5:30 AM: depart for [Rime Island](/travel/rime-island-jilin/) （雾凇岛）.**
 Yes, really. The rime is a dawn phenomenon. By 9–10 AM it's melting. Arrange a car the night before (hotel front desk or Didi), drive ~1 hour north to Wusong Island in Wulajie Manchu Town, and walk the frosted riverside as the sun hits it. Dress for −25°C: this is the coldest you'll be all trip. Everything you need: [rime ice guide](/travel/rime-ice-guide/).
 
 **10:30 AM: back to the city, thaw out.**
