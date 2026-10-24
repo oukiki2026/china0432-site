@@ -11,9 +11,9 @@ china0432.com is an English-language travel guide to Jilin City, China — "chin
 
 ## What we do
 
-- **Jilin Heritage** (吉林文脈): history, old photos, place names and dialect — preserving Jilin's yesterday in images and words.
-- **Taste of Jilin** (尋味吉林): heritage food and street snacks, from pork-and-blood-sausage stew to pan-fried jelly noodles.
-- **Travel Guide** (旅遊攻略): rime ice, temple fairs, skiing, hotels and transport — a practical guide for visitors.
+- **Jilin Heritage**: history, old photos, place names and dialect — preserving Jilin's yesterday in images and words.
+- **Taste of Jilin**: heritage food and street snacks, from pork-and-blood-sausage stew to pan-fried jelly noodles.
+- **Travel Guide**: rime ice, temple fairs, skiing, hotels and transport — a practical guide for visitors.
 
 ## Editorial principles
 
