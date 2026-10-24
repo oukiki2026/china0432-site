@@ -2,10 +2,10 @@
 title: "About"
 date: 2026-10-05
 draft: false
-description: "About china0432.com: a bilingual Jilin hometown culture site."
+description: "About china0432.com: an English-language Jilin City travel guide."
 ---
 
-china0432.com is a bilingual hometown culture site about Jilin, China — "china" for the country, "0432" for Jilin City's area code.
+china0432.com is an English-language travel guide to Jilin City, China — "china" for the country, "0432" for Jilin City's area code.
 
 > **Disclaimer**: This is a privately run, non-governmental website, not affiliated with the Jilin Municipal People's Government or any government agency. For official government services, please visit the official government websites.
 
@@ -19,6 +19,6 @@ china0432.com is a bilingual hometown culture site about Jilin, China — "china
 
 Our content is original-first; AI assists only with research organization, translation and layout, and all factual content is human-verified — no fabrication. Images are sourced: Wikimedia Commons images follow their licenses, AI-generated illustrations are labeled, and contributed vintage photos are credited.
 
-## Bilingual
+## Language
 
-The site is primarily in Traditional Chinese with English alongside: nostalgia content leads in Chinese, travel content is bilingual. Switch languages anytime at the top-right corner.
+The site is written in English for international readers. Chinese versions of selected articles appear on our sister blog, alibagua.com.
